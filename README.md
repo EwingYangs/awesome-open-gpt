@@ -10,9 +10,9 @@
 
 ![ChatGPT](https://cdn-hoodp.nitrocdn.com/HhPZwyEPNMbxJwQocjPNMHNUjcddXQui/assets/images/optimized/rev-c6b2313/app/uploads/2023/02/chatgpt.jpeg)
 
-> awesome-open-gpt是关于GPT开源精选项目的合集，其中包括了一些GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
-> awesome-list的目的是为了让所有GPT关注者更好地关注GPT模型的应用，同时也为那些想要学习和使用GPT模型的人提供了一些有用的资源。
-> 合集会持续更新，希望有更多优秀的GPT相关项目涌现！！！
+- **awesome-open-gpt**是关于GPT开源精选项目的合集 🚀，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
+- awesome-list的目的是为了让所有GPT关注者更好地关注GPT模型的应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
+- awesome-open-gpt会持续更新，希望有更多优秀的GPT相关项目涌现！！！
 
 
 <!-- TOC -->
@@ -253,11 +253,12 @@
 
 ### 其他（平台、逆向工程）
 
-| github地址                                              | 简介                         | 功能                                                                                           |
-|-------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------|
+| github地址                                                | 简介                         | 功能                                                                                           |
+|---------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------|
 | [Reverse ChatGPT](https://github.com/acheong08/ChatGPT) | ChatGPT逆向工程                | 提取ChatGPT的API                                                                                |
 | [Reverse EdgeGPT](https://github.com/acheong08/EdgeGPT) | NewBing逆向工程                | 提取NewBing的API                                                                                |
-| [langchain](https://github.com/hwchase17/langchain) | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。                                                        |
+| [langchain](https://github.com/hwchase17/langchain)     | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。                                                        |
+| [国内镜像站收集](https://github.com/GentleLemon/ChatGPT-Anything)       |收集国内免费ChatGPT镜像，替代品收录  | |
 
 
 ---
