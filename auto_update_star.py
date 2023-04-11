@@ -1,15 +1,22 @@
-import pandas as pd
-import requests
-from bs4 import BeautifulSoup
-import markdown
-import re
 import os
+import re
+
+import html2text
+import markdown
+import requests
+import requests_cache
+from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+from markdownify import markdownify as md
+
 
 # 获取给定URL的Star数
 def get_star_count(url):
+    # 启用缓存，并设置过期时间为 6 小时
+    requests_cache.install_cache(expire_after=21600)
+    # 设置代理
     proxy = {
-        "http":"http://127.0.0.1:7890"
+        "http":os.getenv("HTTP_PROXY")
     }
     access_token = os.getenv("GITHUB_ACCESS_KEY")
     headers = {'Authorization': access_token}
@@ -26,16 +33,11 @@ def get_star_count(url):
         return None
 
 def do_auto_update_star():
-
-    # 读取Markdown文件并解析为HTML
-    # with open("./README.md", "r") as f:
-    #     html = "".join(f.readlines())
-
     # 读取md文件的内容
     with open("./README.md", 'r', encoding='utf-8') as f:
         content = f.read()
 
-    html = markdown.markdown(content, extensions=['markdown.extensions.tables'])
+    html = markdown.markdown(content, extensions=['markdown.extensions.tables', 'markdown.extensions.toc'])
 
     soup = BeautifulSoup(html, "html.parser")
 
@@ -44,41 +46,50 @@ def do_auto_update_star():
 
     # 处理每个表格
     for table in tables:
-        rows = table.find_all('tr')
-        links = []
-        # 指定要提取超链接的列的索引
-        link_col_index = 1
-        for row in rows[1:]:
-            cells = row.find_all('td')
-            link_cell = cells[link_col_index]
-            match = re.search(r'<a href="(.*?)">', str(link_cell))
+        # 增加一列
+        header_row = table.find('tr')
+        # 找到所有的单元格
+        cells = header_row.find_all('th')
+        # 找到 "Last Name" 所在的列
+        last_name_column_index = None
+        for i, cell in enumerate(cells):
+            if cell.text == 'github地址':
+                last_name_column_index = i
+                break
+
+        column_names = [th.text for th in header_row.find_all('th')]
+        if '点赞数' not in column_names:
+            new_header_cell = soup.new_tag('th')
+            new_header_cell.string = '点赞数'
+            header_row.insert(last_name_column_index + 3, new_header_cell)
+
+        # 添加列数据
+        data_rows = table.find_all('tr')[1:]
+        for row in data_rows:
+            match = re.search(r'<a href="(.*?)">', str(row))
             if match:
-                links.append(match.group(1))
-
-        # 将HTML表格解析为dataframe
-        df = pd.read_html(str(table), match='a')[0]
-
-        # 获取每个GitHub项目的Star数量
-        star_counts = [get_star_count(url) for url in links]
-
-        # 将Star数量添加为新列
-        df["点赞数"] = star_counts
-
-        last_col_name = df.columns[-1]
-        index_of_github = df.columns.get_loc('github地址')
-
-        # 将最后一列从DataFrame中删除，然后将其插入到所需的位置
-        last_col = df.pop(last_col_name)
-        df.insert(index_of_github + 1, last_col_name, last_col)
-
-        # 将结果写回HTML表格
-        html_table = df.to_html(index=False)
-        new_table = BeautifulSoup(html_table, "html.parser")
-        table.replace_with(new_table)
+                new_data_cell = soup.new_tag('td')
+                url = match.group(1)
+                new_data_cell.string = get_star_count(url) if get_star_count(url) else ""
+                if '点赞数' not in column_names:
+                    row.insert(last_name_column_index + 3, new_data_cell)
+                else:
+                    cells_td = row.find_all('td')
+                    update_row = cells_td[last_name_column_index + 1]
+                    update_row.string = new_data_cell.string
 
     # 将HTML保存回Markdown文件
-    with open("output.md", "w") as f:
-        f.write(str(soup))
+    h = html2text.HTML2Text()
+    h.ignore_links = True
+    h.body_width = 0
+    h.ignore_emphasis = True
+    h.unicode_snob = True  # 设置为 True 可以避免一些编码问题
+    h.wrap_links = True
+    h.single_line_break = True
+    markdown_text = md(str(soup))
+
+    with open("README_new.md", "w") as f:
+        f.write(markdown_text)
 
 
 if __name__ == '__main__':

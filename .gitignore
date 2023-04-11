@@ -39,3 +39,4 @@ next-env.d.ts
 
 # Scripts
 getUsersEmails.ts
+http_cache.sqlite
