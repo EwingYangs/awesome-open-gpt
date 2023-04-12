@@ -76,7 +76,8 @@ def do_auto_update_star():
                 else:
                     cells_td = row.find_all('td')
                     update_row = cells_td[last_name_column_index + 1]
-                    update_row.string = new_data_cell.string
+                    if len(new_data_cell.string) != 0:
+                        update_row.string = new_data_cell.string
 
     # 将HTML保存回Markdown文件
     h = html2text.HTML2Text()
