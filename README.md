@@ -19,6 +19,7 @@
   * [精选开源项目合集](#精选开源项目合集)
     * [GPT镜像平替](#gpt镜像平替)
     * [GTP编程语言客户端](#gtp编程语言客户端)
+    * [GPT自动化🚀🚀🚀](#gpt自动化)
     * [第三方机器人接入](#第三方机器人接入)
     * [GPT工具](#gpt工具)
       * [GPT工具-文档](#gpt工具-文档)
@@ -61,11 +62,10 @@
 | ChatGPT-web加强版-05 | [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | 9.8k  | 搭建属于自己的 ChatGPT 网站: ChatBot-UI | 1.支持Prompt模版2.支持搜索聊天内容3.支持GPT-44.支持代码高亮显示5.支持Markdown输出 |
 | ChatGPT-web加强版-06 | [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | 8.6k  | 轻快好用的ChatGPT Web图形界面 | 1.实时回复2.无限对话3.保存对话记录4.预设Prompt集5.联网搜索6.根据文件回答 |
 | ChatGPT-web加强版-07 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 2.5k  | 一个惊人的开源web应用程序，具有更好的UI，用于探索OpenAI的ChatGPT API | 1.支持自定义提示词资料库2.支持使用文件夹整理聊天3.支持自定义用户/助理/系统身份4.支持将聊天保存为 Markdown/图片/JSON |
-| ChatGPT-web加强版-08 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 1.6k  | 在浏览器中组装、配置和部署自主AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
-| ChatGPT-web加强版-09 | [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) | 1.4k  | Ex-ChatGPT 使得 ChatGPT 能够调用外部 API，例如 WolframAlpha、Google 和 WikiMedia，以提供更准确和及时的答案 | 1.语音对话功能，使用微软 Azure API，优化响应速度 ( 1-2 秒左右 ) ，包含语音识别和文字转语音，支持多种音色和语言，自定义声音。2.docker 和 proxy 支持。3.对 Google 搜索结果进行数据清洗, 减少token占用。4.允许 ChatGPT 调用外部 API 接口 ( Google,WolframAlpha,WikiMedia ) |
-| ChatGPT-web加强版-10 | [chatgpt-php-web](https://github.com/dirk1983/chatgpt) | 1.2k  | PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Web | 1.增加了一些预设话术2.对手机浏览器进行了适配优化 |
-| ChatGPT-web加强版-11 | [yakGPT](https://github.com/yakGPT/yakGPT) | 934   | 一个简单的，本地运行的ChatGPT UI，使您的文本生成更快，聊天更吸引人! | 1.支持api调用2.支持语音输入 |
-| ChatGPT-web加强版-12 | [multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt) | 116   | 为您的ChatGPT提供图像、视频和音频输入 | 1.将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。 |
+| ChatGPT-web加强版-08 | [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) | 1.4k  | Ex-ChatGPT 使得 ChatGPT 能够调用外部 API，例如 WolframAlpha、Google 和 WikiMedia，以提供更准确和及时的答案 | 1.语音对话功能，使用微软 Azure API，优化响应速度 ( 1-2 秒左右 ) ，包含语音识别和文字转语音，支持多种音色和语言，自定义声音。2.docker 和 proxy 支持。3.对 Google 搜索结果进行数据清洗, 减少token占用。4.允许 ChatGPT 调用外部 API 接口 ( Google,WolframAlpha,WikiMedia ) |
+| ChatGPT-web加强版-09 | [chatgpt-php-web](https://github.com/dirk1983/chatgpt) | 1.2k  | PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Web | 1.增加了一些预设话术2.对手机浏览器进行了适配优化 |
+| ChatGPT-web加强版-10 | [yakGPT](https://github.com/yakGPT/yakGPT) | 934   | 一个简单的，本地运行的ChatGPT UI，使您的文本生成更快，聊天更吸引人! | 1.支持api调用2.支持语音输入 |
+| ChatGPT-web加强版-11 | [multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt) | 116   | 为您的ChatGPT提供图像、视频和音频输入 | 1.将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。 |
 | ChatGPT-文心一言开源版   | [visual-openllm](https://github.com/visual-openllm/visual-openllm) | 764   | 文心一言的开源版，基于 ChatGLM + Visual ChatGPT + Stable Diffusion | 1.画图+聊天 |
 | ChatGPT-命令行版-01   | [shell\_gpt](https://github.com/TheR1D/shell_gpt) | 4.1k  | 在Shell中使用ChatGPT | 1.支持api调用2.支持上下文 |
 | ChatGPT-命令行版-02   | [aichat](https://github.com/sigoden/aichat) | 1.0k  | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
@@ -90,6 +90,14 @@
 | PHP-OpenAi客户端 | [openai-php](https://github.com/orhanerday/open-ai) | 1.4k | OpenAI的PHP SDK |  |
 | Android-ChatGPT客户端 | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 安卓的ChatGPT-SDK |  |
 | .Net-ChatGPT客户端 | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI和DALL-E的dotnet SDK |  |
+
+
+### GPT自动化🚀🚀🚀
+
+| 名称        | github地址 | 点赞数 | 简介 | 功能 |
+|-----------| --- | --- | --- | --- |
+| GPT自动化-01 | [Auto-GPT](https://github.com/Torantulino/Auto-GPT) | 23.9k | 自主 GPT-4 实验工具 | 1.用于搜索和信息收集的 Internet 访问2.长期和短期内存管理3.访问热门网站和平台4.使用 GPT-3.5 进行文件存储和汇总5.支持语音模式 |
+| GPT自动化-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 1.6k  | 在浏览器中组装、配置和部署自主AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 
 
 ### 第三方机器人接入
@@ -162,7 +170,6 @@
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 实验工具 | [Auto-GPT](https://github.com/Torantulino/Auto-GPT) | 23.9k | 自主 GPT-4 实验工具 | 1.用于搜索和信息收集的 Internet 访问2.长期和短期内存管理3.访问热门网站和平台4.使用 GPT-3.5 进行文件存储和汇总5.支持语音模式 |
 | 调教场景机器人-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 396 | 创建各种场景的对话机器人 | 1.写作助理2.代码解释器3.日报生成器等 |
 | 调教场景机器人-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.3k | 在几秒钟内创建自己的ChatGPT应用程序 | 1.创建各种场景的对话机器人，比如小红书、日报等 |
 | 调教场景机器人-03 | [Portal](https://github.com/lxfater/Portal) | 1.7k | Portal是一款传输工具，旨在将ChatGPT的能力整合到用户的工作流程中。它把整个操作系统当成自己的舞台，可以在任意软件上操作ChatGPT | 1.任意软件划词翻译2.自定义提示语模板3.对话管理 && 对话图生成 |
