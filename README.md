@@ -10,7 +10,7 @@
 
 ![ChatGPT](https://cdn-hoodp.nitrocdn.com/HhPZwyEPNMbxJwQocjPNMHNUjcddXQui/assets/images/optimized/rev-c6b2313/app/uploads/2023/02/chatgpt.jpeg)
 
-- **awesome-open-gpt**是关于GPT开源精选项目的合集 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
+- **awesome-open-gpt**是关于GPT开源精选项目的合集（130+） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
 - awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
 - awesome-open-gpt会持续更新，希望有更多优秀的GPT相关项目涌现！！！**并且每天会自动更新点赞数（自动更新点赞数的脚本也是利用ChatGPT写的）**。
 
