@@ -92,7 +92,7 @@
 | .Net-ChatGPT客户端 | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI和DALL-E的dotnet SDK |  |
 
 
-### GPT自动化🚀🚀🚀
+### GPT自动化🔥🔥🔥
 
 
 
