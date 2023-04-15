@@ -197,9 +197,10 @@
 
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
-| --- | --- | --- | --- | --- |
+| -- | --- | --- | --- | --- |
 | 房间设计 | [roomGPT](https://github.com/Nutlope/roomGPT) | 6.7k | 上传一张你房间的照片，用人工智能生成你的梦想房间。 | 你只需要给你的房间拍一张照，或是房间的 3D 效果图，并将其上传，即可用 AI 生成对应的梦幻房间效果图。（严格来说属于绘画领域的） |
 | 结构知识 | [GraphGPT](https://github.com/varunshenoy/GraphGPT) | 3.2k | 自然语言 → 结构知识 | 1.GraphGPT将非结构化的自然语言转换为知识图。传入您最喜欢的电影概要、维基百科页面上令人困惑的段落或视频文本，以生成实体及其关系的可视化图表。 |
+| 面试提示 | [cheetah](https://github.com/leetcode-mafia/cheetah) | 1.3k | 使用GPT和Whisper辅助远程面试 |  |
 | 讲故事 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 1.2k | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型 |  |
 | AR体验 | [ChatARKit](https://github.com/trzy/ChatARKit) | 328 | 使用ChatGPT以自然语言创建AR体验 | 1.基于Sketchfab-3D模型网站 |
 
