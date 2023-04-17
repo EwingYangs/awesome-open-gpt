@@ -379,7 +379,7 @@
 --
 
 
-<img src='./images/qrcode.jpeg' width=20%  alt=""/><img src='./images/group_qrcode.jpeg' width=20%  alt=""/>
+<img src='./images/qrcode.jpeg' width=30%  alt=""/><img src='./images/group_qrcode.jpeg' width=30%  alt=""/>
 
 加群前先看： 
 
