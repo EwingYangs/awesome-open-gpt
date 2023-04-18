@@ -165,6 +165,7 @@
 | 代码搜索引擎 | [bloop](https://github.com/BloopAI/bloop) | 3.5k | bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 | 1.正则表达式搜索2.同步本地和Github仓库 |
 | 代码生成 | [aiac](https://github.com/gofireflyio/aiac) | 2.3k | 命令行的代码生成器 | 1.生成IaC2.生成docker、k8s配置3.生成CI/CD4.生成SQL |
 | 语言转换 | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.5k | 使用 AI 将代码从一种语言翻译成另一种语言。 |  |
+| GPT缓存 | [GPTCacher](https://github.com/zilliztech/GPTCacher) | 914 | 使用向量数据库技术为各种 LLM 应用提供一层语义缓存，能够存储 LLM 响应，从而显著减少检索数据所需的时间、降低 API 调用开销、提升应用可扩展性 | 1.plugin类型设计，多个模块支持自定义，如embedding、存储、相似评估、请求前后处理 2.适配openai多个接口，如ChatComplete/Complete等，同时也集成至LangChain 3.请求中多个参数，可满足多个不同场景，如缓存开启关闭、是否进行相似搜索、多级cache等 |
 
 
 #### GPT工具-通用
