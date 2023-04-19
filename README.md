@@ -115,8 +115,8 @@
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | 微信ChatGPT机器人-01 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | 11.3k | 在微信上迅速接入 ChatGPT | 1.基于 wechaty 和 Official API 在微信中使用 ChatGPT2.支持多轮对话3.支持命令设置4.支持 Dall·E5.支持 whisper6.支持设置 prompt |
-| 微信ChatGPT机器人-03 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 9.4k | 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现 | 1.支持规则定制化2.多账号3.图片生成4.上下文记忆5.语音识别6.插件化 |
-| 微信ChatGPT机器人-02 | [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | 3.6k | 微信ChatGPT机器人 | 1.支持上下文语境的对话。2.支持重置上下文语境，通过关键词(reset)重置对话上下文语境。3.支持在群聊@你的机器人 🤖，@机器人即可收到回复。4.支持通过关键词唤醒你的机器人，如当在群组中发送“@机器人 hello xxxx”时才会收到回复。 |
+| 微信ChatGPT机器人-02 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 9.4k | 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现 | 1.支持规则定制化2.多账号3.图片生成4.上下文记忆5.语音识别6.插件化 |
+| 微信ChatGPT机器人-03 | [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | 3.6k | 微信ChatGPT机器人 | 1.支持上下文语境的对话。2.支持重置上下文语境，通过关键词(reset)重置对话上下文语境。3.支持在群聊@你的机器人 🤖，@机器人即可收到回复。4.支持通过关键词唤醒你的机器人，如当在群组中发送“@机器人 hello xxxx”时才会收到回复。 |
 | QQ和电报ChatGPT机器人 | [OpenaiBot](https://github.com/LlmKira/Openaibot) | 1.4k | OpenaiBot是一款优秀的基于 GPT 系列模型(主要为 Openai ) 接口的ChatGPT聊天机器人。 | 1.支持跨多平台使用、有通用接口，目前能对接到QQ和Telegram聊天平台使用、进行私聊和群聊、主动搜索回复、图像Blip理解支持、语音识别、贴纸支持、聊天黑白名单限制等多种功能 |
 | Discord-ChatGPT机器人 | [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | 1.9k | 将ChatGPT集成到您自己的discord机器人中 | 1.切换GPT接口模式，支持4.0 2.支持Dalle2生图 |
 | 电报ChatGPT机器人-01 | [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) | 2.5k | 将ChatGPT集成到您自己的Telegram机器人中 | 1.使用Cloudflare Workers，单文件，直接复制粘贴一把梭，无需任何依赖，无需配置本地开发环境，不用域名，免服务器 |
