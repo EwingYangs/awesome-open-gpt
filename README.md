@@ -104,6 +104,7 @@
 | GPT自动化-02 | [AgentGPT🔥](https://github.com/reworkd/AgentGPT) | 15.6k | 在浏览器中组装、配置和部署自动AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-04 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 675 | AutoGPT的图形用户界面 |  |
+| GPT自动化-05 | [MicroGPT](https://github.com/muellerberndt/micro-gpt) | 729 | 自主 GPT-4 工具 | 一个简单有效的自主 GPT-3.5/4 工具。 可以分析股票价格、执行网络安全测试、绘画和订购比萨饼 |
 | GPT自动化-插件 | [Auto-GPT-Plugins🤔](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 482 | AutoGPT的插件 | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！! |
 
 
