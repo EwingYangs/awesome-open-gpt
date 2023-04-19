@@ -101,10 +101,11 @@
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | GPT自动化-01 | [Auto-GPT🔥](https://github.com/Significant-Gravitas/Auto-GPT) | 91.1k | 自主 GPT-4 实验工具 | 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。 |
+| GPT自动化-01-插件 | [Auto-GPT-Plugins🤔](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 482 | AutoGPT的插件 | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！! |
+| GPT自动化-01-图形界面 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 675 | AutoGPT的图形用户界面 |  |
 | GPT自动化-02 | [AgentGPT🔥](https://github.com/reworkd/AgentGPT) | 15.6k | 在浏览器中组装、配置和部署自动AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
-| GPT自动化-04 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 675 | AutoGPT的图形用户界面 |  |
-| GPT自动化-插件 | [Auto-GPT-Plugins🤔](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 482 | AutoGPT的插件 | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！! |
+| GPT自动化-04 | [micro-gpt](https://github.com/muellerberndt/micro-gpt) | 725 | 基于GPT3.5/4的最小通用自主代理。 | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。 |
 
 
 ### 第三方机器人接入
@@ -182,7 +183,6 @@
 | 调教场景机器人-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 422 | 创建各种场景的对话机器人 | 1.写作助理2.代码解释器3.日报生成器等 |
 | 调教场景机器人-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.3k | 在几秒钟内创建自己的ChatGPT应用程序 | 1.创建各种场景的对话机器人，比如小红书、日报等 |
 | 通用-01 | [Portal](https://github.com/lxfater/Portal) | 1.7k | 通过键盘快捷键将任何选定的文本发送到ChatGPT进行处理，然后将结果返回到用户的剪贴板或光标位置(实现打字机效果)，可以在任意软件上操作ChatGPT | 1.任意软件划词翻译2.自定义提示语模板3.对话管理 && 对话图生成 |
-| 通用-02 | [micro-gpt](https://github.com/muellerberndt/micro-gpt) | 725 | 基于GPT3.5/4的最小通用自主代理。 | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。 |
 
 
 #### GPT工具-音视频
