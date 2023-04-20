@@ -245,7 +245,7 @@
 | 分享插件 | [sharegpt](https://github.com/domeccleston/sharegpt) | 1.1k | 轻松地共享ChatGPT对话的永久链接到https://sharegpt.com/ | 1.一键分享自己ChatGPT对话到https://sharegpt.com |
 | 阅读插件 | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 483 | arxiv论文使用ChatGPT | 1.能帮你读arxiv论文，在一些地方给出注解 |
 | 总结插件-01 | [summarize.site](https://github.com/clmnin/summarize.site) | 575 | 使用OpenAI ChatGPT总结网页 |  |
-| 总结插件-02 | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 612 | 它可以在Google搜索和Yuoutbe旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |  |
+| 总结插件-02 | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 612 | 它可以在Google搜索和YouTube旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |  |
 | 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 534 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
 
 
