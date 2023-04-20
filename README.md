@@ -190,11 +190,12 @@
 
 
 
-| 名称 | github地址 | 点赞数 | 简介 | 功能 |
-| --- | --- | --- | --- | --- |
-| 视频总结 | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 | 开发中：支持网页丨播客丨会议丨本地音视频文件等输入，Prompt 和输出端均在持续迭代中 |
-| 语音 | [speechgpt🔥](https://github.com/hahahumble/speechgpt) | 2.1k | SpeechGPT是一个允许您与ChatGPT语音谈话的web应用程序，口语练习 | 1.适配移动端2.支持超过100种语言3.语音陪练4.集成Azure的语音服务 |
-| 语言 | [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) | 1.3k | 一个开源的ChatGPT语音应用程序 | 1.集成ElevenLabs的语音服务2.支持docker部署 |
+| 名称    | github地址 | 点赞数    | 简介                                       | 功能                                           |
+|-------| --- |--------|------------------------------------------|----------------------------------------------|
+| 视频总结  | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k   | 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等    | 开发中：支持网页丨播客丨会议丨本地音视频文件等输入，Prompt 和输出端均在持续迭代中 |
+| 语音-01 | [speechgpt🔥](https://github.com/hahahumble/speechgpt) | 2.1k   | SpeechGPT是一个允许您与ChatGPT语音谈话的web应用程序，口语练习 | 1.适配移动端2.支持超过100种语言3.语音陪练4.集成Azure的语音服务      |
+| 语音-02 | [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) | 1.3k   | 一个开源的ChatGPT语音应用程序                       | 1.集成ElevenLabs的语音服务2.支持docker部署              |
+| 语音-03 | [polyglot](https://github.com/liou666/polyglot) | 494 | Polyglot是一款基于ChatGPT和Azure的语言练习桌面端应用程序。  | 1.多国语言口语练习<br/>2.智能语音合成<br/>3.智能对话功能               |
 
 
 #### GPT工具-其他
