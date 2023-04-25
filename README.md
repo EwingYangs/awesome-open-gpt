@@ -19,27 +19,28 @@
 
 
 <!-- TOC -->
-  * [精选开源项目合集](#精选开源项目合集)
-    * [GPT镜像平替](#gpt镜像平替)
-    * [GTP编程语言客户端](#gtp编程语言客户端)
-    * [GPT自动化🔥🔥🔥](#gpt自动化)
-    * [第三方机器人接入](#第三方机器人接入)
-    * [GPT工具](#gpt工具)
-      * [GPT工具-文档](#gpt工具-文档)
-      * [GPT工具-编程](#gpt工具-编程)
-      * [GPT工具-通用](#gpt工具-通用)
-      * [GPT工具-音视频](#gpt工具-音视频)
-      * [GPT工具-其他](#gpt工具-其他)
-    * [GPT插件](#gpt插件)
-      * [GPT插件-官方](#gpt插件-官方)
-      * [GPT插件-浏览器](#gpt插件-浏览器)
-      * [GPT插件-第三方应用](#gpt插件-第三方应用)
-    * [GPT开源平替机器人](#gpt开源平替机器人)
-    * [专业领域机器人](#专业领域机器人)
-    * [Prompt对话指令](#prompt对话指令)
-    * [其他（平台、逆向工程）](#其他平台逆向工程)
-  * [相关资料](#相关资料)
-  * [贡献](#贡献)
+- [精选开源项目合集](#精选开源项目合集)
+  - [GPT镜像平替](#gpt镜像平替)
+  - [GTP编程语言客户端](#gtp编程语言客户端)
+  - [GPT自动化🔥🔥🔥](#gpt自动化)
+  - [第三方机器人接入](#第三方机器人接入)
+  - [GPT工具](#gpt工具)
+    - [GPT工具-文档](#gpt工具-文档)
+    - [GPT工具-编程](#gpt工具-编程)
+    - [GPT工具-通用](#gpt工具-通用)
+    - [GPT工具-音视频](#gpt工具-音视频)
+    - [GPT工具-其他](#gpt工具-其他)
+  - [GPT插件](#gpt插件)
+    - [GPT插件-官方](#gpt插件-官方)
+    - [GPT插件-浏览器](#gpt插件-浏览器)
+    - [GPT插件-第三方应用](#gpt插件-第三方应用)
+  - [GPT开源平替机器人](#gpt开源平替机器人)
+  - [专业领域机器人](#专业领域机器人)
+  - [Prompt对话指令](#prompt对话指令)
+  - [其他（平台、逆向工程）](#其他平台逆向工程)
+- [相关资料](#相关资料)
+- [贡献](#贡献)
+- [技术交流](#技术交流)
 <!-- TOC -->
 
 ## 精选开源项目合集
@@ -341,6 +342,8 @@
 | [Awesome-ChatGPT-prompts-ZH\_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) | 1.4k | 如何将ChatGPT调教成一只猫娘 |  |
 | [ChatGPT-Data-Science-Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts) | 562 | ChatGPT"数据科学"指令 |  |
 | [The-Art-of-Asking-ChatGPT](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique) | 375 | 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南 |  |
+| [中文 prompts 精选🔥](https://github.com/yzfly/wonderful-prompts) | 33 | [ChatGPT 中文指南作者](https://github.com/yzfly/awesome-chatgpt-zh) 精选、优调的系列中文 ChatGPT Prompts，并提供图文使用示例，让大家能够更好的使用 ChatGPT。 |  |
+
 
 
 ### 其他（平台、逆向工程）
