@@ -319,10 +319,11 @@
 
 
 
-| 名称 | github地址 | 点赞数 | 简介 | 功能 |
-| --- | --- | --- | --- | --- |
-| 生物医学机器人 | [BioGPT](https://github.com/microsoft/BioGPT) | 3.7k | 微软团队推出的基于生物医学研究文献的大型语言模型 | 1.提取诸如基因或疾病的生物医学实体<br/>2.可以回答生物医学问题的聊天机器人<br/>3.生物医学领域的总结和自动完成 |
-| 医生机器人 | [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 2.3k | 利用医学领域知识在LLaMA模型基础上改进的医学聊天模型 | 1.数据训练来自HealthCareMagic.com的20万次病人和医生之间的真实对话、来自icliniq.com的26k个病人和医生之间的真实对话 |
+| 名称      | github地址 | 点赞数  | 简介 | 功能                                                                          |
+|---------| --- |------| --- |-----------------------------------------------------------------------------|
+| 生物医学机器人 | [BioGPT](https://github.com/microsoft/BioGPT) | 3.7k | 微软团队推出的基于生物医学研究文献的大型语言模型 | 1.提取诸如基因或疾病的生物医学实体<br/>2.可以回答生物医学问题的聊天机器人<br/>3.生物医学领域的总结和自动完成              |
+| 医生机器人   | [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 2.3k | 利用医学领域知识在LLaMA模型基础上改进的医学聊天模型 | 1.数据训练来自HealthCareMagic.com的20万次病人和医生之间的真实对话、来自icliniq.com的26k个病人和医生之间的真实对话 |
+| 法律机器人   | [law-cn-ai](https://github.com/lvwzhen/law-cn-ai) | 1.9k | AI 法律助手 | 1.基于GPT，使用embeddings向量数据库做的固定领域机器人                                          |
 
 
 ### Prompt对话指令

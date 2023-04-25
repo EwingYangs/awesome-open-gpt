@@ -316,10 +316,11 @@
 
 
 
-| name | github address | star | introduction | function |
-| --- | --- | --- | --- | --- |
+| name             | github address | star | introduction | function |
+|------------------| --- | --- | --- | --- |
 | Biomedical Robot | [BioGPT](https://github.com/microsoft/BioGPT) | 3.7k | A large-scale language model based on biomedical research literature launched by the Microsoft team | 1. Extraction of biomedical entities such as genes or diseases 2. Chatbots that can answer biomedical questions 3. Summary and auto-completion in the biomedical field |
-| Doctor Robot | [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 2.3k | A medical chat model based on the LLaMA model using medical domain knowledge | 1. Data training on 200,000 real conversations between patients and doctors from the Health Care Magic.com and 26k patients and doctors from icliniq.com |
+| Doctor Robot     | [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor) | 2.3k | A medical chat model based on the LLaMA model using medical domain knowledge | 1. Data training on 200,000 real conversations between patients and doctors from the Health Care Magic.com and 26k patients and doctors from icliniq.com |
+| Law Robot        | [law-cn-ai](https://github.com/lvwzhen/law-cn-ai) | 1.9k | AI Legal assistants | 1.Based on GPT, fixed-domain robots made using embeddings vector database                                          |
 
 
 ### Prompt Conversation Instructions
