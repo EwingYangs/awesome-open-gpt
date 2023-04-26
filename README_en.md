@@ -10,7 +10,7 @@
 
 ![ChatGPT](./images/gpt-header.jpeg)
 
-- **awesome-open-gpt** is a collection of 140+ selected open source projects related to GPT 🚀. Popular projects are marked with 🔥, including some GPT mirrors, GPT enhancements, GPT plugins, GPT tools, chatbots based on GPT-based conversational AI, open-source large-scale language models, and more.
+- **awesome-open-gpt** is a collection of 160+(The most complete in the whole network) selected open source projects related to GPT 🚀. Popular projects are marked with 🔥, including some GPT mirrors, GPT enhancements, GPT plugins, GPT tools, chatbots based on GPT-based conversational AI, open-source large-scale language models, and more.
 - The purpose of the **awesome-list is** to help all GPT enthusiasts better focus on GPT open source applications, while also providing some useful resources for those who want to learn and use GPT models.
 - **awesome-open-gpt** will continue to be updated, hoping to see more excellent GPT-related projects emerge!!! Also, the number of likes will be automatically updated every day (the script that automatically updates the star is also written using ChatGPT).
 
