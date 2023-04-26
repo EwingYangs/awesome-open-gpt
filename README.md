@@ -148,16 +148,17 @@
 
 
 
-| 名称 | github地址 | 点赞数 | 简介 | 功能 |
-| --- | --- | --- | --- | --- |
-| 论文总结 | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | 利用chatgpt进行论文总结+润色+审稿+审稿回复 | 1.论文总结+润色+审稿+审稿回复 |
-| 论文交谈 | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | 一个开源的LLM研究助手，允许您与研究论文进行对话 | 上传论文，和论文对话。 |
-| PDF交谈 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | PDF聊天机器人 | 1.使用新的GPT-4 api为多个大型PDF文件构建chatGPT聊天机器人。 |
-| PDF总结 | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | ChatGPT文档阅读器 | 1.支持总结PDF<br/>2.支持分享到discord |
-| PPT生成 | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 540 | 使用ChatGPT自动生成PPT | 1.根据标题一键生成ppt<br/>2.支持多种语言 |
-| PDF阅读 | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 846 | 以各种风格的语言阅读PDF、DOCX文件 | 该工具旨在帮助用户将文本从一种格式转换为另一种格式，以及使用 OpenAI API (model=gpt-3.5-turbo) 将其翻译成另一种语言。 目前支持PDF、DOCX、MOBI和EPUB文件格式转换翻译成EPUB文件及文本文件，可以将文字翻译成多种语言。 |
-| markdown文档 | [markprompt](https://github.com/motifland/markprompt) | 1.6k | 使用GPT4来阅读markdown文档 | 1.它扫描GitHub库里的 Markdown、 Markdoc 和 MDX 文件，并创建可用于创建提示的嵌入 |
-| 文档生成问题答案 | [auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) | 346 | 输入文档自动生成问题、答案、评分 | 1.自动生成问题答案<br/>2.对相对于答案的响应进行评分 <br/>3.支持json、PDF、TXT等格式 |
+| 名称         | github地址 | 点赞数  | 简介 | 功能                                                                                                                                   |
+|------------| --- |------| --- |--------------------------------------------------------------------------------------------------------------------------------------|
+| 论文总结       | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | 利用chatgpt进行论文总结+润色+审稿+审稿回复 | 1.论文总结+润色+审稿+审稿回复                                                                                                                    |
+| 论文交谈       | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | 一个开源的LLM研究助手，允许您与研究论文进行对话 | 上传论文，和论文对话。                                                                                                                          |
+| PDF交谈-01   | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | PDF聊天机器人 | 1.使用新的GPT-4 api为多个大型PDF文件构建chatGPT聊天机器人。                                                                                             |
+| PDF交谈-02   | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 1.1k | PDF GPT 允许您使用 GPT 功能与 PDF 文件的内容聊天。在聊天机器人中转换您的 pdf 文件的唯一开源解决方案！ | 1.基于CPT和上传的PDF文件交谈                                                                                                                   |
+| PDF总结      | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | ChatGPT文档阅读器 | 1.支持总结PDF<br/>2.支持分享到discord                                                                                                         |
+| PPT生成      | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 540  | 使用ChatGPT自动生成PPT | 1.根据标题一键生成ppt<br/>2.支持多种语言                                                                                                           |
+| PDF阅读      | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 846  | 以各种风格的语言阅读PDF、DOCX文件 | 该工具旨在帮助用户将文本从一种格式转换为另一种格式，以及使用 OpenAI API (model=gpt-3.5-turbo) 将其翻译成另一种语言。 目前支持PDF、DOCX、MOBI和EPUB文件格式转换翻译成EPUB文件及文本文件，可以将文字翻译成多种语言。 |
+| markdown文档 | [markprompt](https://github.com/motifland/markprompt) | 1.6k | 使用GPT4来阅读markdown文档 | 1.它扫描GitHub库里的 Markdown、 Markdoc 和 MDX 文件，并创建可用于创建提示的嵌入                                                                              |
+| 文档生成问题答案   | [auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) | 346  | 输入文档自动生成问题、答案、评分 | 1.自动生成问题答案<br/>2.对相对于答案的响应进行评分 <br/>3.支持json、PDF、TXT等格式                                                                              |
 
 
 #### GPT工具-编程

@@ -146,15 +146,16 @@
 
 
 
-| name | github address | star | introduction | function |
-| --- | --- | --- | --- | --- |
-| Paper summary | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | Use ChatGPT to summarize the arXiv papers. | 1. Paper summary + editing + review + review response |
-| Paper conversation | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | An open-source LLM based research assistant that allows you to have a conversation with a research paper | Upload your paper and talk to it. |
-| PDF Talk | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | GPT4 & LangChain Chatbot for large PDF docs | 1. Build chatGPT chatbots for multiple large PDF files using the new GPT-4 API. |
-| PDF summary | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | GPT-powered chat for documentation search & assistance. | 1. Support summary PDF 2. Support sharing to discord |
-| PPT generate | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 540 | Use ChatGPT (or other backends) to generate PPT automatically, all in one single file. | 1. Generate ppt according to the title with one click 2. Support multiple languages |
-| PDF reading | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 846 | Enjoy reading with your favorite style. | The tool is designed to help users convert text from one format to another, as well as translate it into another language using the OpenAI API (model=gpt-3.5-turbo). Currently supports PDF, DOCX, MOBI and EPUB file format conversion into EPUB files and text files, which can translate text into multiple languages. |
-| markdown | [markprompt](https://github.com/motifland/markprompt) | 1.6k | Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics | 1. It scans the GitHub repository for Markdown, Markdoc, and MDX files and creates embeddings that can be used to create prompts |
+| name                                    | github address | star | introduction | function |
+|-----------------------------------------| --- | --- | --- | --- |
+| Paper summary                           | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | Use ChatGPT to summarize the arXiv papers. | 1. Paper summary + editing + review + review response |
+| Paper conversation                      | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | An open-source LLM based research assistant that allows you to have a conversation with a research paper | Upload your paper and talk to it. |
+| PDF Talk-01                             | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | GPT4 & LangChain Chatbot for large PDF docs | 1. Build chatGPT chatbots for multiple large PDF files using the new GPT-4 API. |
+| PDF Talk-02                             | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 1.1k | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot! | 1.Talk based on CPT and uploaded PDF files                                                                                                                   |
+| PDF summary                             | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | GPT-powered chat for documentation search & assistance. | 1. Support summary PDF 2. Support sharing to discord |
+| PPT generate                            | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 540 | Use ChatGPT (or other backends) to generate PPT automatically, all in one single file. | 1. Generate ppt according to the title with one click 2. Support multiple languages |
+| PDF reading                             | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 846 | Enjoy reading with your favorite style. | The tool is designed to help users convert text from one format to another, as well as translate it into another language using the OpenAI API (model=gpt-3.5-turbo). Currently supports PDF, DOCX, MOBI and EPUB file format conversion into EPUB files and text files, which can translate text into multiple languages. |
+| markdown                                | [markprompt](https://github.com/motifland/markprompt) | 1.6k | Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics | 1. It scans the GitHub repository for Markdown, Markdoc, and MDX files and creates embeddings that can be used to create prompts |
 | Documents generate answers to questions | [auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) | 346 | Enter documents to automatically generate questions, answers, scores | 1. Automatically generate question answers 2. Score responses relative to answers 3. Support json, PDF, TXT and other formats |
 
 
