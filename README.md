@@ -16,7 +16,7 @@
 - **awesome-open-gpt**是关于GPT开源精选项目的合集（160+全网最全） 🚀，热门项目用🔥标记，其中包括了一些GPT镜像、GPT增强、GPT插件、GPT工具、GPT平替的聊天机器人、开源大语言模型等等。
 - awesome-list的目的是为了让所有GPT关注者更好地关注GPT开源应用，同时也为想要学习和使用GPT模型的人提供了一些有用的资源。
 - awesome-open-gpt会持续更新，希望有更多优秀的GPT相关项目涌现！！！**并且每天会自动更新点赞数（自动更新点赞数的脚本也是利用ChatGPT写的）**。
-
+- [技术交流](./README_exchange.md)
 
 <!-- TOC -->
   * [精选开源项目合集](#精选开源项目合集)
@@ -399,10 +399,11 @@
 --
 
 
-<img src='./images/qrcode.jpeg' width=30%  alt=""/><img src='./images/group_qrcode.jpeg' width=30%  alt=""/>
+<img src='./images/qrcode.jpeg' width=30%  alt=""/><img src='./images/group_qrcode2.jpeg' width=30%  alt=""/>
 
 加群前先看： 
 
+- 群人数超了，建了新群
 - 纯技术交流群，主要分享和交流GPT开源项目或者工具，欢迎技术同学加入
 - 还不知道怎么使用GPT的不用进了
 - 想通过群里推广卖号代充的不用进了
