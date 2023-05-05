@@ -179,7 +179,7 @@
 | Code search engine  | [bloop](https://github.com/BloopAI/bloop) | 3.6k | bloop is a fast code search engine written in Rust.                                                                                                                                          | 1. Regular expression search 2. Sync local and Github repositories |
 | Code generation     | [aiac](https://github.com/gofireflyio/aiac) | 2.4k | Artificial Intelligence Infrastructure-as-Code Generator.                                                                                                                                    | 1. Generate Ia C 2. Generate docker, k 8 s placement 3. Generate CICD 4. Generate SQL |
 | Language conversion | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.8k | Use AI to translate code from one language to another.                                                                                                                                       |  |
-| Data Processing     | [pandas-ai](https://github.com/gventuri/pandas-ai) | 3.2k | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.                                                 |  |
+| Data Processing     | [pandas-ai🔥](https://github.com/gventuri/pandas-ai) | 3.2k | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational.                                                 |  |
 
 
 
