@@ -171,17 +171,18 @@
 
 
 
-| 名称 | github地址 | 点赞数 | 简介 | 功能 |
-| --- | --- | --- | --- | --- |
-| git工具-02 | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
-| git工具-01 | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.0k | 用ChatGPT提交commit | git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息 |
-| github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 331 | 一个基于ChatGPT的GitHub机器人 |  |
-| 错误检测-01 | [wolverine](https://github.com/biobootloader/wolverine) | 4.1k | 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。 |  |
-| 错误检测-02 | [stackexplain](https://github.com/shobrook/stackexplain) | 455 | 使用ChatGPT用简单的英语解释你的错误信息 | 用stackexplain命令运行pythohn脚本，并且自动检测错误给出正确的修复方法 |
-| SQL客户端 | [sqlchat](https://github.com/sqlchat/sqlchat) | 1.5k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL |
-| 代码搜索引擎 | [bloop](https://github.com/BloopAI/bloop) | 3.6k | bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 | 1.正则表达式搜索<br/>2.同步本地和Github仓库 |
-| 代码生成 | [aiac](https://github.com/gofireflyio/aiac) | 2.4k | 命令行的代码生成器 | 1.生成IaC<br/>2.生成docker、k8s配置<br/>3.生成CI/CD<br/>4.生成SQL |
-| 语言转换 | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.8k | 使用 AI 将代码从一种语言翻译成另一种语言。 |  |
+| 名称        | github地址 | 点赞数  | 简介 | 功能 |
+|-----------| --- |------| --- | --- |
+| git工具-02  | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
+| git工具-01  | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.0k | 用ChatGPT提交commit | git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息 |
+| github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 331  | 一个基于ChatGPT的GitHub机器人 |  |
+| 错误检测-01   | [wolverine](https://github.com/biobootloader/wolverine) | 4.1k | 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。 |  |
+| 错误检测-02   | [stackexplain](https://github.com/shobrook/stackexplain) | 455  | 使用ChatGPT用简单的英语解释你的错误信息 | 用stackexplain命令运行pythohn脚本，并且自动检测错误给出正确的修复方法 |
+| SQL客户端    | [sqlchat](https://github.com/sqlchat/sqlchat) | 1.5k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL |
+| 代码搜索引擎    | [bloop](https://github.com/BloopAI/bloop) | 3.6k | bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 | 1.正则表达式搜索<br/>2.同步本地和Github仓库 |
+| 代码生成      | [aiac](https://github.com/gofireflyio/aiac) | 2.4k | 命令行的代码生成器 | 1.生成IaC<br/>2.生成docker、k8s配置<br/>3.生成CI/CD<br/>4.生成SQL |
+| 语言转换      | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.8k | 使用 AI 将代码从一种语言翻译成另一种语言。 |  |
+| 数据处理      | [pandas-ai](https://github.com/gventuri/pandas-ai) | 3.2k | 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。 |  |
 
 
 
