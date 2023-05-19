@@ -115,7 +115,7 @@
 | GPT自动化-01-中文版  | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 307   | 自动化的GPT-中文版                 |                                                                                                                                     |
 | GPT自动化-02      | [AgentGPT](https://github.com/reworkd/AgentGPT) | 15.6k | 在浏览器中组装、配置和部署自动AI代理。        | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务                                                                                           |
 | GPT自动化-03      | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务                                                                                           |
-| GPT自动化-04      | [micro-gpt](https://github.com/muellerberndt/micro-gpt) | 725   | 基于GPT3.5/4的最小通用自主代理。        | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。                                                                                                    |
+| GPT自动化-04      | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k   | 基于GPT3.5/4的最小通用自主代理。        | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。                                                                                                    |
 
 
 ### 第三方机器人接入
