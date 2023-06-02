@@ -279,8 +279,7 @@
 | 总结插件-01         | [summarize.site](https://github.com/clmnin/summarize.site) | 575 | 使用OpenAI ChatGPT总结网页 |                                                                                                                                                                                            |
 | 总结插件-02         | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 612 | 它可以在Google搜索和YouTube旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |                                                                                                                                                                                            |
 | 总结插件-03         | [WebPilot](https://github.com/webpilot-ai/Webpilot)| 560 | Webpilot是一个免费、开源的“网络副驾驶”，可以让您与网页进行自由形式的对话，或与其他用户进行自动争论。 |1. 总结网页内容。 2. 可以自定义指令，对所选网页内容进行任何提问。 |
-| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 534 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容   |                                                                                                                                                                       |
-
+| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 534 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
 
 #### GPT插件-第三方应用
 
