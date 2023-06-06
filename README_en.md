@@ -112,7 +112,7 @@
 | GPT Auto-01-Chinese version | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 307 | Auto-GPT Chinese version and hobbyist organization Synchronously update the original project AI field entrepreneurship Self-media organization Use AI work and learning to create monetization |  |
 | GPT Auto-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 15.6k | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 1. Name your own custom AI and let it start with whatever goal you can think of. It will try to do the task by thinking about it |
 | GPT Auto-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | Just give a goal and task iteration to let the AI automate your task |  |
-| GPT Auto-04 | [micro-gpt](https://github.com/muellerberndt/micro-gpt) | 725 | A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
+| GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
 
 
 ### Third Platform Robot
