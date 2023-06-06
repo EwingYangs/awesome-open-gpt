@@ -275,6 +275,7 @@
 | Read-Plugin               | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 483 | A browser extension that enhance search engines with ChatGPT | 1. Can help you read ARXIV papers, give annotations in some places |
 | Summary-Plugin-01         | [summarize.site](https://github.com/clmnin/summarize.site) | 575 | Summarize web pages using OpenAI ChatGPT |  |
 | Summary-Plugin-02         | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 612 | Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary. |  |
+| Summary-Plugin-03         | [WebPilot](https://github.com/webpilot-ai/Webpilot)| 560 | Webpilot is a free, open-source "Copilot for web" that allows you to have free-form conversations with web pages or engage in automatic arguments with other users. |1. Summarize the the web page. 2. Define the prompts by yourself. |
 | Summary-Plugin-YouTube    | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 534 | YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology. | 1. Summarize You Tube video content with one click |
 
 
