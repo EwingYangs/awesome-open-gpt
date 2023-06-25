@@ -207,7 +207,7 @@
 | 名称  | github地址                                                | 点赞数  | 简介                 | 功能 |
 |-----|---------------------------------------------------------|------|--------------------| --- |
 | 图表  | [ chart-gpt]( https://github.com/whoiskatrin/chart-gpt) | 1.4k | 基于文本输入构建图表的人工智能工具。 | |
-
+| AI可视化  | [SolidUI](https://github.com/CloudOrc/SolidUI.git) | 139 | AI生成可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。 | |
 
 #### GPT工具-测试
 
