@@ -113,6 +113,7 @@
 | GPT Auto-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 15.6k | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 1. Name your own custom AI and let it start with whatever goal you can think of. It will try to do the task by thinking about it |
 | GPT Auto-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | Just give a goal and task iteration to let the AI automate your task |  |
 | GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
+| GPT Auto-05 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 56 | DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on the Langchain documentation tree. | Just give a prompt and then let DemoGPT prepare the whole pipeline and create your custom application according to this pipeline. Then, just with your prompt, you can create your dream application|
 
 
 ### Third Platform Robot
