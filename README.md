@@ -318,6 +318,7 @@
 | [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 19.8k | 斯坦福的羊驼模型（羊驼） |  |
 | [DeepSpeed Chat🔥](https://github.com/microsoft/DeepSpeed) | 15.6k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 16.0k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型 | 1.62 亿参数2.用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存） |
+| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | 7.2k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型V2版本 | ChatGLM2-6B 在 MMLU（+23%）、CEval（+33%）、GSM8K（+571%） 、BBH（+60%）等数据集上的性能取得了大幅度的提升 |
 | [minGPT](https://github.com/karpathy/minGPT) | 14.3k | karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。 |  |
 | [FastChat](https://github.com/lm-sys/FastChat) | 12.5k | 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。(小羊驼) | 1.斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。 |
 | [MiniGPT-4🔥](https://github.com/Vision-CAIR/MiniGPT-4) | 9.9k | 增强视觉语言理解（识图）与先进的大型语言模型 | 1.识别图片，并且进行对话  |
