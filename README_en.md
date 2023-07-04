@@ -204,7 +204,7 @@
 | name       | github address                                                | star  | introduction                                                                         | function |
 |----------|---------------------------------------------------------|------|----------------------------------------------------------------------------| --- |
 | AI chart | [ chart-gpt]( https://github.com/whoiskatrin/chart-gpt) | 1.4k | An artificial intelligence tool for building diagrams based on text input. | |
-
+| AI-generated visualization  | [SolidUI](https://github.com/CloudOrc/SolidUI.git) | 139 | AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing. | |
 
 
 #### GPT-Tool-Test
