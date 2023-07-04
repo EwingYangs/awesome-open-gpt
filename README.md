@@ -174,6 +174,7 @@
 
 | 名称        | github地址 | 点赞数  | 简介 | 功能 |
 |-----------| --- |------| --- | --- |
+| git工具-03  | [aicommits](https://github.com/Nutlope/aicommits) | 5.4k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
 | git工具-02  | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
 | git工具-01  | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.0k | 用ChatGPT提交commit | git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息 |
 | github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 331  | 一个基于ChatGPT的GitHub机器人 |  |
