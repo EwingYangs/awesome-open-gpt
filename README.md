@@ -36,9 +36,10 @@
       * [GPT插件-官方](#gpt插件-官方)
       * [GPT插件-浏览器](#gpt插件-浏览器)
       * [GPT插件-第三方应用](#gpt插件-第三方应用)
-    * [GPT开源平替机器人🔥🔥🔥](#gpt开源平替机器人)
+    * [GPT开源平替机器人](#gpt开源平替机器人)
     * [专业领域机器人](#专业领域机器人)
     * [Prompt对话指令](#prompt对话指令)
+    * [GPTs🔥🔥🔥](#gpts)
     * [其他（平台、逆向工程）](#其他平台逆向工程)
   * [相关资料](#相关资料)
   * [贡献](#贡献)
@@ -172,18 +173,19 @@
 
 
 
-| 名称        | github地址 | 点赞数  | 简介 | 功能 |
-|-----------| --- |------| --- | --- |
-| git工具-02  | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
+| 名称        | github地址 | 点赞数  | 简介 | 功能                                                                     |
+|-----------| --- |------| --- |------------------------------------------------------------------------|
+| git工具-02  | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息                                                     |
 | git工具-01  | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.0k | 用ChatGPT提交commit | git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息 |
-| github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 331  | 一个基于ChatGPT的GitHub机器人 |  |
-| 错误检测-01   | [wolverine](https://github.com/biobootloader/wolverine) | 4.1k | 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。 |  |
-| 错误检测-02   | [stackexplain](https://github.com/shobrook/stackexplain) | 455  | 使用ChatGPT用简单的英语解释你的错误信息 | 用stackexplain命令运行pythohn脚本，并且自动检测错误给出正确的修复方法 |
-| SQL客户端    | [sqlchat](https://github.com/sqlchat/sqlchat) | 1.5k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL |
-| 代码搜索引擎    | [bloop](https://github.com/BloopAI/bloop) | 3.6k | bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 | 1.正则表达式搜索<br/>2.同步本地和Github仓库 |
-| 代码生成      | [aiac](https://github.com/gofireflyio/aiac) | 2.4k | 命令行的代码生成器 | 1.生成IaC<br/>2.生成docker、k8s配置<br/>3.生成CI/CD<br/>4.生成SQL |
-| 语言转换      | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.8k | 使用 AI 将代码从一种语言翻译成另一种语言。 |  |
-| 数据处理      | [pandas-ai](https://github.com/gventuri/pandas-ai) | 3.2k | 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。 |  |
+| github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 331  | 一个基于ChatGPT的GitHub机器人 |                                                                        |
+| 错误检测-01   | [wolverine](https://github.com/biobootloader/wolverine) | 4.1k | 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。 |                                                                        |
+| 错误检测-02   | [stackexplain](https://github.com/shobrook/stackexplain) | 455  | 使用ChatGPT用简单的英语解释你的错误信息 | 用stackexplain命令运行pythohn脚本，并且自动检测错误给出正确的修复方法                           |
+| SQL客户端-01 | [sqlchat](https://github.com/sqlchat/sqlchat) | 1.5k | SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 | 1.支持MySQL和PostgreSQL                                                   |
+| SQL客户端-02 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 1.2k | 一款智能、通用的通用 SQL 客户端和数据库报告工具，集成了 ChatGPT 功能。 | 1.AI智能助手，支持自然语言到SQL转换、SQL到自然语言转换、SQL优化建议<br/>2.强大的扩展能力，目前支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等，未来将支持更多数据库                        |
+| 代码搜索引擎    | [bloop](https://github.com/BloopAI/bloop) | 3.6k | bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 | 1.正则表达式搜索<br/>2.同步本地和Github仓库                                          |
+| 代码生成      | [aiac](https://github.com/gofireflyio/aiac) | 2.4k | 命令行的代码生成器 | 1.生成IaC<br/>2.生成docker、k8s配置<br/>3.生成CI/CD<br/>4.生成SQL                 |
+| 语言转换      | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.8k | 使用 AI 将代码从一种语言翻译成另一种语言。 |                                                                        |
+| 数据处理      | [pandas-ai](https://github.com/gventuri/pandas-ai) | 3.2k | 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。 |                                                                        |
 
 
 
@@ -304,7 +306,7 @@
 | Siri插件 | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 2.6k | 通过 Siri 启动「快捷指令」连接 ChatGPT API，让 Siri 变身 AI 聊天助手 | 1.支持连续对话<br/>2.配置系统prompt<br/>3.保存聊天记录 |
 
 
-### GPT开源平替机器人🔥🔥🔥
+### GPT开源平替机器人
 
 
 
@@ -315,21 +317,21 @@
 | [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) | 1k  | gpt4all的ui界面 | 1. 使用ui界面本地训练，调教，使用 |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | 22.0k | OpenAssistant是一个基于聊天的助手，可以理解任务，可以与第三方系统交互，并动态检索信息。 | Open Assistant 是一个旨在让每个人都能访问基于聊天的大型语言模型的项目。 |
 | [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 19.8k | 斯坦福的羊驼模型（羊驼） |  |
-| [DeepSpeed Chat🔥](https://github.com/microsoft/DeepSpeed) | 15.6k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
+| [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed) | 15.6k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 16.0k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型 | 1.62 亿参数2.用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存） |
 | [minGPT](https://github.com/karpathy/minGPT) | 14.3k | karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。 |  |
 | [FastChat](https://github.com/lm-sys/FastChat) | 12.5k | 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。(小羊驼) | 1.斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。 |
-| [MiniGPT-4🔥](https://github.com/Vision-CAIR/MiniGPT-4) | 9.9k | 增强视觉语言理解（识图）与先进的大型语言模型 | 1.识别图片，并且进行对话  |
+| [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | 9.9k | 增强视觉语言理解（识图）与先进的大型语言模型 | 1.识别图片，并且进行对话  |
 | [alpaca-lora](https://github.com/tloen/alpaca-lora) | 9.2k | 轻量级 ChatGPT 的开源实现，小羊驼-lora | 1. 使用了LoRA轻量级模型2.只需要训练很小一部分参数就可以获得媲美 Standford Alpaca 模型的效果3.要RTX 4090才能玩 |
 | [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) | 796 | 一个基于React的程序，它使用基于聊天的界面(基于Alpaca Lora)在Mac和Windows上本地执行FreedomGPT LLM(离线和私有) |  |
-| [stableLM🔥](https://github.com/stability-AI/stableLM) | 8.1k | Stable Diffusion的初创公司Stability AI发布并开源该团队训练的大语言模型StableLM | 今日发布的StableLM在更大版本的开源数据集The Pile上进行训练，该数据集包含来自各种来源的信息，包括维基百科（Wikipedia）、问答网站Stack Exchange和生物医学数据库PubMed，该数据集的规模是The Pile的三倍，包含1.5万亿个tokens（字符），其超大规模使得StableLM在会话和编码上具有超高性能，但是它目前只有30-70亿个参数，而GPT-3有1750亿个参数。 |
+| [stableLM](https://github.com/stability-AI/stableLM) | 8.1k | Stable Diffusion的初创公司Stability AI发布并开源该团队训练的大语言模型StableLM | 今日发布的StableLM在更大版本的开源数据集The Pile上进行训练，该数据集包含来自各种来源的信息，包括维基百科（Wikipedia）、问答网站Stack Exchange和生物医学数据库PubMed，该数据集的规模是The Pile的三倍，包含1.5万亿个tokens（字符），其超大规模使得StableLM在会话和编码上具有超高性能，但是它目前只有30-70亿个参数，而GPT-3有1750亿个参数。 |
 | [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) | 7.5k | 前OpenAI团队打造，OpenChatKit提供了一个强大的开源基础，可以为各种应用程序创建专门的和通用的聊天机器人。 | 1.200亿参数的语言模型2.用户只需准备自己的数据集，并使用OpenChatKit的配方来微调模型即可获得高精度的结果。 |
 | [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 7.3k | 一个用于运行大型语言模型(如GPT-J 6B, OPT, GALACTICA, LLaMA和Pygmalion)的梯度web UI |  |
 | [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) | 6.3k | 在PaLM架构之上实现RLHF(带人类反馈的强化学习)。基本上是ChatGPT，但有PaLM。 |  |
 | [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | 5.7k | ChatRWKV是对标ChatGPT的开源项目，希望做"大规模语言模型的Stable Diffusion" |  |
 | [dolly](https://github.com/databrickslabs/dolly) | 4.4k | Databricks的Dolly是一个在Databricks机器学习平台上训练的大型语言模型 | 1.Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型进行微调 |
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 4.1k | 中文LLaMA&Alpaca大语言模型+本地部署 | 1.🚀 开源了经过中文文本数据预训练的中文LLaMA大模型🚀 开源了进一步经过指令精调的中文Alpaca大模型🚀 快速地使用笔记本电脑（个人PC）本地部署和体验量化版大模型 |
-| [MOSS🔥](https://github.com/OpenLMLab/MOSS) | 717 | 国内首个类 ChatGPT 模型：复旦大学 MOSS，RTX 3090 显卡可运行 |  |
+| [MOSS](https://github.com/OpenLMLab/MOSS) | 717 | 国内首个类 ChatGPT 模型：复旦大学 MOSS，RTX 3090 显卡可运行 |  |
 | [BELLE](https://github.com/LianjiaTech/BELLE) | 3.7k | 开源中文对话大模型 | 1.现阶段本项目基于一些开源预训练大语言模型（如BLOOM、LAMMA等），针对中文做了优化，模型调优仅使用由ChatGPT生产的数据（不包含任何其他数据）。 |
 | [trlx](https://github.com/carperai/trlx) | 2.9k | 一个通过人类反馈强化学习(RLHF)对语言模型进行分布式训练的repo | 1.支持高达20b参数的在线RL和更大模型的离线RL。基本上就是你用来微调GPT到ChatGPT的项目 |
 | [lit-llama](https://github.com/Lightning-AI/lit-llama) | 2.4k | Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。 |  |
@@ -369,6 +371,14 @@
 | [The-Art-of-Asking-ChatGPT](https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique) | 375 | 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南 |  |
 
 
+### GPTs🔥🔥🔥
+
+
+| github地址 | 点赞数  | 简介             | 功能 |
+| --- |------|----------------| --- |
+| [awesome-gpts](https://github.com/taranjeet/awesome-gpts) | 868  | GPTs | 收集社区创建的所有 GPTs |
+| [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) | 1.5k | GPTs | 精选的超棒 GPT 👍 列表 |
+
 ### 其他（平台、逆向工程）
 
 
@@ -381,7 +391,7 @@
 | [langchain](https://github.com/hwchase17/langchain) | 2.3k  | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。                                                                                                                                                                                                                     |
 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 1.8k  | 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页 | 解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found. |
 | [GPTCache](https://github.com/zilliztech/GPTCache) | 914   | 使用向量数据库技术为各种 LLM 应用提供一层语义缓存，能够缓存 LLM 响应，从而显著减少检索数据所需的时间、降低 API 调用开销、提升应用可扩展性 | 1.plugin类型设计，多个模块支持自定义，如embedding、存储、相似评估、请求前后处理 2.适配openai多个接口，如ChatComplete/Complete等，同时也集成至LangChain 3.请求中多个参数，可满足多个不同场景，如缓存开启关闭、是否进行相似搜索、多级cache等                                                                                                     |
-| [gpt4free🔥](https://github.com/xtekky/gpt4free) | 5.5k  | 此存储库为 GPT-4/3.5 提供反向工程的第三方 API，这些 API 来自各种网站。 | 1.比如poe.com、writesonic.com等第三方网站                                                                                                                                                                                                                          |
+| [gpt4free](https://github.com/xtekky/gpt4free) | 5.5k  | 此存储库为 GPT-4/3.5 提供反向工程的第三方 API，这些 API 来自各种网站。 | 1.比如poe.com、writesonic.com等第三方网站                                                                                                                                                                                                                          |
 | [国内镜像站收集-01](https://github.com/xx025/carrot) | 8k    | 收集国内免费ChatGPT镜像，替代品收录 |                                                                                                                                                                                                                                                           |
 | [国内镜像站收集-02](https://github.com/GentleLemon/ChatGPT-Anything) | 26    | 收集国内免费ChatGPT镜像，替代品收录 |                                                                                                                                                                                                                                                           |
 
