@@ -112,7 +112,7 @@
 | GPT Auto-01-Chinese version | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 307 | Auto-GPT Chinese version and hobbyist organization Synchronously update the original project AI field entrepreneurship Self-media organization Use AI work and learning to create monetization |  |
 | GPT Auto-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 15.6k | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 1. Name your own custom AI and let it start with whatever goal you can think of. It will try to do the task by thinking about it |
 | GPT Auto-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | Just give a goal and task iteration to let the AI automate your task |  |
-| GPT Auto-04 | [micro-gpt](https://github.com/muellerberndt/micro-gpt) | 725 | A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
+| GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
 
 
 ### Third Platform Robot
@@ -205,7 +205,7 @@
 | name       | github address                                                | star  | introduction                                                                         | function |
 |----------|---------------------------------------------------------|------|----------------------------------------------------------------------------| --- |
 | AI chart | [ chart-gpt]( https://github.com/whoiskatrin/chart-gpt) | 1.4k | An artificial intelligence tool for building diagrams based on text input. | |
-
+| AI-generated visualization  | [SolidUI](https://github.com/CloudOrc/SolidUI.git) | 139 | AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing. | |
 
 
 #### GPT-Tool-Test
@@ -276,6 +276,7 @@
 | Read-Plugin               | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 483 | A browser extension that enhance search engines with ChatGPT | 1. Can help you read ARXIV papers, give annotations in some places |
 | Summary-Plugin-01         | [summarize.site](https://github.com/clmnin/summarize.site) | 575 | Summarize web pages using OpenAI ChatGPT |  |
 | Summary-Plugin-02         | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 612 | Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary. |  |
+| Summary-Plugin-03         | [WebPilot](https://github.com/webpilot-ai/Webpilot)| 560 | Webpilot is a free, open-source "Copilot for web" that allows you to have free-form conversations with web pages or engage in automatic arguments with other users. |1. Summarize the the web page. 2. Define the prompts by yourself. |
 | Summary-Plugin-YouTube    | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 534 | YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology. | 1. Summarize You Tube video content with one click |
 
 

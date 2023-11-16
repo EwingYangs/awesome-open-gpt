@@ -79,7 +79,7 @@
 | ChatGPT-命令行版-02   | [aichat](https://github.com/sigoden/aichat) | 1.1k  | 终端使用ChatGPT/GPT-3.5/GPT-4                                                       | 1.支持角色预设<br/>2.语法突出显示markdown和其他200种语言                                                                                                                                                                  |
 | ChatGPT-命令行版-03   | [pandora](https://github.com/pengzhile/pandora) | 1.2k  | 潘多拉，一个不只是命令行的ChatGPT                                                            | 多模式：网页/命令行/API，私有化部署                                                                                                                                                                                    |
 | ChatGPT-命令行版+语音   | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 555   | 在命令行用你的声音与ChatGPT对话，并让它回应                                                       | 1.在cli命令行和ChatGPT语音交谈                                                                                                                                                                                   |
-| ChatGPT克隆         | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 293   | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板                       | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件                       
+| ChatGPT克隆         | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 293   | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板                       | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件|                       
 
 
 ### GTP编程语言客户端
@@ -116,7 +116,7 @@
 | GPT自动化-01-中文版  | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 307   | 自动化的GPT-中文版                 |                                                                                                                                     |
 | GPT自动化-02      | [AgentGPT](https://github.com/reworkd/AgentGPT) | 15.6k | 在浏览器中组装、配置和部署自动AI代理。        | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务                                                                                           |
 | GPT自动化-03      | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务                                                                                           |
-| GPT自动化-04      | [micro-gpt](https://github.com/muellerberndt/micro-gpt) | 725   | 基于GPT3.5/4的最小通用自主代理。        | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。                                                                                                    |
+| GPT自动化-04      | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k   | 基于GPT3.5/4的最小通用自主代理。        | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。                                                                                                    |
 
 
 ### 第三方机器人接入
@@ -173,9 +173,16 @@
 
 
 
+<<<<<<< HEAD
 | 名称        | github地址 | 点赞数  | 简介 | 功能                                                                     |
 |-----------| --- |------| --- |------------------------------------------------------------------------|
 | git工具-02  | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息                                                     |
+=======
+| 名称        | github地址 | 点赞数  | 简介 | 功能 |
+|-----------| --- |------| --- | --- |
+| git工具-03  | [aicommits](https://github.com/Nutlope/aicommits) | 5.4k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
+| git工具-02  | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
+>>>>>>> 09053da1007b362ab57e05ca633ce736957b20d6
 | git工具-01  | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.0k | 用ChatGPT提交commit | git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息 |
 | github机器人 | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 331  | 一个基于ChatGPT的GitHub机器人 |                                                                        |
 | 错误检测-01   | [wolverine](https://github.com/biobootloader/wolverine) | 4.1k | 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。 |                                                                        |
@@ -209,7 +216,7 @@
 | 名称  | github地址                                                | 点赞数  | 简介                 | 功能 |
 |-----|---------------------------------------------------------|------|--------------------| --- |
 | 图表  | [ chart-gpt]( https://github.com/whoiskatrin/chart-gpt) | 1.4k | 基于文本输入构建图表的人工智能工具。 | |
-
+| AI可视化  | [SolidUI](https://github.com/CloudOrc/SolidUI.git) | 139 | AI生成可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。 | |
 
 #### GPT工具-测试
 
@@ -280,8 +287,8 @@
 | 阅读插件            | [chatgpt-arxiv-extension](https://github.com/hunkimForks/chatgpt-arxiv-extension) | 483 | arxiv论文使用ChatGPT | 1.能帮你读arxiv论文，在一些地方给出注解                                                                                                                                                                    |
 | 总结插件-01         | [summarize.site](https://github.com/clmnin/summarize.site) | 575 | 使用OpenAI ChatGPT总结网页 |                                                                                                                                                                                            |
 | 总结插件-02         | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 612 | 它可以在Google搜索和YouTube旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |                                                                                                                                                                                            |
-| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 534 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容                                                                                                                                                                          |
-
+| 总结插件-03         | [WebPilot](https://github.com/webpilot-ai/Webpilot)| 560 | Webpilot是一个免费、开源的“网络副驾驶”，可以让您与网页进行自由形式的对话，或与其他用户进行自动争论。 |1. 总结网页内容。 2. 可以自定义指令，对所选网页内容进行任何提问。 |
+| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 534 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
 
 #### GPT插件-第三方应用
 
@@ -319,6 +326,7 @@
 | [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 19.8k | 斯坦福的羊驼模型（羊驼） |  |
 | [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed) | 15.6k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 16.0k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型 | 1.62 亿参数2.用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存） |
+| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | 7.2k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型V2版本 | ChatGLM2-6B 在 MMLU（+23%）、CEval（+33%）、GSM8K（+571%） 、BBH（+60%）等数据集上的性能取得了大幅度的提升 |
 | [minGPT](https://github.com/karpathy/minGPT) | 14.3k | karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。 |  |
 | [FastChat](https://github.com/lm-sys/FastChat) | 12.5k | 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。(小羊驼) | 1.斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。 |
 | [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | 9.9k | 增强视觉语言理解（识图）与先进的大型语言模型 | 1.识别图片，并且进行对话  |
