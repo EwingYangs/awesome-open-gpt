@@ -380,6 +380,7 @@
 | --- |------|----------------| --- |
 | [awesome-gpts](https://github.com/taranjeet/awesome-gpts) | 868  | GPTs | 收集社区创建的所有 GPTs |
 | [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) | 1.5k | GPTs | 精选的超棒 GPT 👍 列表 |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | 3.7k | 抓取网站以生成知识文件，以便从 URL 创建自己的自定义 GPT | 可以抓取各种网页上的技术文档，上传到gpts |
 
 ### 其他（平台、逆向工程）
 

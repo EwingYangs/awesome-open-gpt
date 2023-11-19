@@ -375,6 +375,7 @@
 | --- |------|----------------| --- |
 | [awesome-gpts](https://github.com/taranjeet/awesome-gpts) | 868  | GPTs | Collects all gpts created by the community |
 | [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) | 1.5k | GPTs | Selected list of awesome GPTS |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | 3.7k | Crawl a site to generate knowledge files to create your own custom GPT from a URL | Can capture technical documents on various web pages and upload them to gpts |
 
 ### Other（Platform、Reverse engineering）
 
