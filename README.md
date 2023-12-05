@@ -21,7 +21,7 @@
 <!-- TOC -->
   * [精选开源项目合集](#精选开源项目合集)
     * [GPT镜像平替](#gpt镜像平替)
-    * [GTP编程语言客户端](#gtp编程语言客户端)
+    * [GPT编程语言客户端](#gpt编程语言客户端)
     * [GPT自动化](#gpt自动化)
     * [第三方机器人接入](#第三方机器人接入)
     * [GPT工具](#gpt工具)
@@ -82,7 +82,7 @@
 | ChatGPT克隆         | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 293   | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板                       | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件|                       
 
 
-### GTP编程语言客户端
+### GPT编程语言客户端
 
 
 

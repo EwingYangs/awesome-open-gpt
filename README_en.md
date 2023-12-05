@@ -18,7 +18,7 @@
 <!-- TOC -->
   * [Curated collection of open source projects](#curated-collection-of-open-source-projects)
     * [GPT-Mirror Surrogate](#gpt-mirror-surrogate)
-    * [GTP Programming Language Client](#gtp-programming-language-client)
+    * [GPT Programming Language Client](#gpt-programming-language-client)
     * [GPT Auto](#gpt-auto)
     * [Third Platform Robot](#third-platform-robot)
     * [GPT-Tool](#gpt-tool)
@@ -78,7 +78,7 @@
 
 
 
-### GTP Programming Language Client
+### GPT Programming Language Client
 
 
 
