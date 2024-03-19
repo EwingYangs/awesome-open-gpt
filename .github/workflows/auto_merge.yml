@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  copy_files:
+  Update_README:
     runs-on: ubuntu-latest
 
     steps:
@@ -32,10 +32,10 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.email "2450854008@qq.com"
-        git config --global user.name "Country-If"
+        git config --global user.email ${{secrets.EMAIL}}
+        git config --global user.name ${{secrets.USERNAME}}
         git add README.md README_en.md
-        git commit -m "automatically commit and push"
-        git push origin HEAD:main
+        git commit -m "automatically commit and push" || true
+        git push origin HEAD:main || true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用GitHub提供的token进行身份验证
