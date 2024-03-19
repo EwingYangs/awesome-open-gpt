@@ -1,0 +1,33 @@
+name: Merge Files automatically
+
+on:
+  push:
+    branches:
+        - main
+
+  workflow_dispatch:
+
+jobs:
+  copy_files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Install Requirements
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Auto Update Star
+      run: |
+        python auto_update_star.py
+
+    - name: Auto Translate
+      run: |
+        python auto_translator.py
+
+    - name: Commit and Push Changes
+      run: |
+        git add README.md README_en.md
+        git commit -m "automatically commit and push"
+        git push origin HEAD:main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用GitHub提供的token进行身份验证
