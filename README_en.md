@@ -2,11 +2,10 @@ awesome-open-gpt
 ----------------
 
 
-
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 
 ![ChatGPT](./images/gpt-header.jpeg)
 
@@ -14,10 +13,9 @@ awesome-open-gpt
 * **awesome-open-gpt** is a collection of 170+(The most complete in the whole network) selected open source projects related to GPT 🚀. Popular projects are marked with 🔥, including some GPT mirrors, GPT enhancements, GPT plugins, GPT tools, chatbots based on GPT-based conversational AI, open-source large-scale language models, and more.
 * The purpose of the **awesome-list is** to help all GPT enthusiasts better focus on GPT open source applications, while also providing some useful resources for those who want to learn and use GPT models.
 * **awesome-open-gpt** will continue to be updated, hoping to see more excellent GPT-related projects emerge!!! Also, the number of likes will be automatically updated every day (the script that automatically updates the star is also written using ChatGPT).
-
-
-
 * [Curated collection of open source projects](#curated-collection-of-open-source-projects)
+
+
 	+ [GPT-Mirror Surrogate](#gpt-mirror-surrogate)
 	+ [GTP Programming Language Client](#gtp-programming-language-client)
 	+ [GPT Auto](#gpt-auto)
@@ -40,7 +38,6 @@ awesome-open-gpt
 	+ [Other（Platform、Reverse engineering）](#otherplatformreverse-engineering)
 * [Relevant materials](#relevant-materials)
 * [Contribution](#contribution)
-
 
 
 Curated collection of open source projects
@@ -126,9 +123,9 @@ Curated collection of open source projects
 | --- | --- | --- | --- | --- |
 | Wechat-ChatGPT-Robot-01 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | 11.3k | Use ChatGPT On Wechat via wechaty | 1. Use ChatGPT in WeChat based on wechaty and Official API 2. Support multi-round conversation 3. Support command setting 4. Support Dall· E5.Support whisper6.Support setting prompt |
 | Wechat-ChatGPT-Robot-02 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 9.4k | 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 | 1. Support rule customization 2. Multi-account 3. Image generation 4. Context memory 5. Speech recognition 6. Plug-in |
-| Wechat-ChatGPT-Robot-03 | [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | 3.6k | ChatGPT for wechat | 1. Support contextual dialogue. 2. Support resetting the context context, and reset the conversation context through the keyword (reset). 3. Support in group chat @ your bot 🤖 , @robot to receive a response. 4. Support waking up your bot with keywords, such as receiving a reply when sending "@robot hello xxxx" in the group. |
-| Wechat-ChatGPT-Robot-04 | [openai-on-wechat](https://github.com/riba2534/openai-on-wechat) | 100 | 🍺An OpenAI WeChat chatbot implemented in Golang | - Text conversation: You can receive private chat group chat messages, use OpenAI's gpt-3.5-turbo to generate reply content, automatically reply to questions- Trigger password setting: Friends need to bring a specified prefix when sending you a message to trigger a conversation with GPT bot, and the trigger password can be set in the configuration file- Continuous conversation: support for private chat group chat Turn on the continuous conversation function, you can set how many minutes you need to remember through the configuration file- Image generation: You can generate pictures according to the description, And automatically reply in the current private chat group chat |
-| QQ AND Telegraph-ChatGPT-Robot | [OpenaiBot](https://github.com/LlmKira/Openaibot) | 1.4k | Refractoring 🚧ChatBot+LLM 、Gpt-3.5-turbo、ChatGPT Bot/Voice Assistant 、📱 Cross-Platform 、🦾 Async、🗣 Good Contextual Support、🌻 sh & docker、🔌 API Server、🎤 Azure/Vits 、🌎 、 📷 Multi-modal/Image、💐 Self-maintained LLM Framework | ChatBot+LLM |
+| Wechat-ChatGPT-Robot-03 | [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | 3.6k | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot | 1. Support contextual dialogue. 2. Support resetting the context context, and reset the conversation context through the keyword (reset). 3. Support in group chat @ your bot 🤖 , @robot to receive a response. 4. Support waking up your bot with keywords, such as receiving a reply when sending "@robot hello xxxx" in the group. |
+| Wechat-ChatGPT-Robot-04 | [openai-on-wechat](https://github.com/riba2534/openai-on-wechat) | 100 | 🍺基于 Golang 实现的，OpenAI 微信聊天机器人 | - Text conversation: You can receive private chat group chat messages, use OpenAI's gpt-3.5-turbo to generate reply content, automatically reply to questions- Trigger password setting: Friends need to bring a specified prefix when sending you a message to trigger a conversation with GPT bot, and the trigger password can be set in the configuration file- Continuous conversation: support for private chat group chat Turn on the continuous conversation function, you can set how many minutes you need to remember through the configuration file- Image generation: You can generate pictures according to the description, And automatically reply in the current private chat group chat |
+| QQ AND Telegraph-ChatGPT-Robot | [OpenaiBot](https://github.com/LlmKira/Openaibot) | 1.4k | 🚧V4🚧⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖 Plugin Support | 🌻 Docker Deploy | ChatBot+LLM |
 | Discord-ChatGPT-Robot | [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | 1.9k | Integrate ChatGPT into your own discord bot | 1. Switch GPT interface mode, support 4.0 2. Support Dalle2 raw graph |
 | Telegraph-ChatGPT-Robot-01 | [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) | 2.5k | Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease. | 1. Use Cloudflare Workers, single file, directly copy and paste a shuttle, without any dependencies, no need to configure a local development environment, no domain name, no server |
 | Telegraph-ChatGPT-Robot-02 | [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) | 1.2k | 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python | 1. Support markdown output 2. Docker and Proxy support 3.Support DALL· 3. Support for transcribing audio and video messages using Whisper |
@@ -208,7 +205,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| AI chart |  [chart-gpt](https://github.com/whoiskatrin/chart-gpt) | 1.4k | An artificial intelligence tool for building diagrams based on text input. |  |
+| AI chart | [chart-gpt](https://github.com/whoiskatrin/chart-gpt) | 1.4k | An artificial intelligence tool for building diagrams based on text input. |  |
 | AI-generated visualization | [SolidUI](https://github.com/CloudOrc/SolidUI.git) | 139 | AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing. |  |
 
 
@@ -219,7 +216,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Penetration testing tools |  [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | PentestGPT is a penetration testing tool powered by GPT4. |  |
+| Penetration testing tools | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | PentestGPT is a penetration testing tool powered by GPT4. |  |
 
 
 #### GPT-Tool-General
@@ -229,7 +226,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Femdom scenes-Robot-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 422 | 💞 Anyone can create GPT tools | 1. Writing assistant 2. Code interpreter 3. Daily newspaper generator, etc |
+| Femdom scenes-Robot-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 422 | 💞 Anyone can create GPT tools 人人都能创建 GPT 工具 | 1. Writing assistant 2. Code interpreter 3. Daily newspaper generator, etc |
 | Femdom scenes-Robot-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.3k | Create your own ChatGPT App in seconds. | 1. Create chatbots for various scenarios, such as Xiaohongshu, daily news, etc. |
 | Common-01 | [Portal](https://github.com/lxfater/Portal) | 1.7k | Chat GPT can be operated on any software by sending any selected text to Chat GPT for processing via keyboard shortcuts, and then returning the result to the user's clipboard or cursor position (for typewriter effect). | 1. Any software word translation 2. Custom prompt template 3. Conversation management && dialog diagram generation |
 
@@ -243,8 +240,8 @@ Curated collection of open source projects
 | --- | --- | --- | --- | --- |
 | Room design | [roomGPT](https://github.com/Nutlope/roomGPT) | 6.8k | Upload a photo of your room to generate your dream room with AI. | All you need to do is take a picture of your room, or a 3D renderings of your room, upload it, and you can use AI to generate the corresponding dream room renderings. (Strictly speaking, it belongs to the field of painting) |
 | Structural knowledge | [GraphGPT](https://github.com/varunshenoy/GraphGPT) | 3.2k | Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ | 1.Graph GPT transforms unstructured natural language into a knowledge graph. Pass in a synopsis of your favorite movie, confusing paragraphs on Wikipedia pages, or video text to generate visualizations of entities and their relationships. |
-| Interview tips | [cheetah](https://github.com/leetcode-mafia/cheetah) | 2.0k | Whisper & GPT-based app for crushing remote SWE interviews |  |
-| Tell stories | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 1.2k | Chinese version of the AI dungeon uses openai's ChatGPT API directly as a storytelling model. |  |
+| Interview tips | [cheetah](https://github.com/leetcode-mafia/cheetah) | 2.0k | Mac app for crushing remote tech interviews with AI |  |
+| Tell stories | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 1.2k | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。 |  |
 | AR experience | [ChatARKit](https://github.com/trzy/ChatARKit) | 335 | Using ChatGPT to create AR experiences with natural language. | 1. Based on the Sketchfab-3 D model website |
 | Apple Health | [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | 1.2k | Query your Apple Health data with natural language 💬 🩺 | 1.Integration with the Apple Health app to ensure seamless first-party data usage2.Out of the box support for querying sleep, step count, active energy, exercise minutes, heart rate, and body mass. |
 
@@ -259,7 +256,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| ChatGPT-retrieval-plugin | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 14.4k | The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language. | Semantic search and retrieval of personal or organizational documents is possible. It allows users to get the most relevant pieces of documentation from their data sources, such as files, notes, or emails, by asking questions or expressing needs in natural language. Businesses can use this plugin to provide internal documentation to employees via ChatGPT. |
+| ChatGPT-retrieval-plugin | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 14.4k | The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. | Semantic search and retrieval of personal or organizational documents is possible. It allows users to get the most relevant pieces of documentation from their data sources, such as files, notes, or emails, by asking questions or expressing needs in natural language. Businesses can use this plugin to provide internal documentation to employees via ChatGPT. |
 
 
 #### GPT-Plugins-Browser
@@ -270,14 +267,14 @@ Curated collection of open source projects
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
 | Common-Plugin | [chatGPTBox](https://github.com/josStorer/chatGPTBox) | 6.7k | Integrating ChatGPT into your browser deeply, everything you need is here | 1. Call out the chat dialog box at any time on any page 2. Support mobile devices such as mobile phones 3. Summarize any page through the right-click menu 4. Box selection tool and right-click menu, perform a variety of your needs, such as translation, summary, editing, sentiment analysis, paragraph division, code explanation, inquiry 5. Support reddit, quora, youtube, github, gitlab, stackoverflow, zhihu, bilibili and other websites |
-| Search-Plugin | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | 12.9k | A browser extension that enhance search engines with ChatGPT | 1. The right side displays ChatGPT search content2. Custom trigger mode3. Support switching language |
+| Search-Plugin | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | 12.9k | This project is deprecated. Check my new project ChatHub: | 1. The right side displays ChatGPT search content2. Custom trigger mode3. Support switching language |
 | Textbox-Plugin | [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | 2.5k | A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet. | 1. Right-click in the text box Ask ChatGPT to use 2. Use it to write tweets, modify emails, fix code bugs, or anything else you need |
-| Textbox-Plugin-Twitter | [tweetGPT](https://github.com/yaroslav-n/tweetGPT) | 566 | TweetGPT is a chrome extension that generates tweets and replies using chatGPT | 1. Generate Tweets and replies in Twitter Web |
-| Translation-Plugin-01 | [openai-translator](https://github.com/yetone/openai-translator) | 14.8k | Browser extension and cross-platform desktop application for translation based on ChatGPT API. | 1. Word translation |
-| Translation-Plugin-02 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 5.8k | Immersive Dual Web Page Translation Extension | 1. Bilingual display, Chinese and English comparison. 2. Customized optimization for common mainstream websites, such as Twitter, Reddit, Discord, Gmail, Telegram, Youtube, Hacker News, etc. 3. Support PDF files, EPUB e-book bilingual translation, production and export. 4. Support mobile |
+| Textbox-Plugin-Twitter | [tweetGPT](https://github.com/yaroslav-n/tweetGPT) | 566 | Chrome extension that generates tweets and replies using chatGPT | 1. Generate Tweets and replies in Twitter Web |
+| Translation-Plugin-01 | [openai-translator](https://github.com/yetone/openai-translator) | 14.8k | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API. | 1. Word translation |
+| Translation-Plugin-02 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 5.8k | 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension  | 1. Bilingual display, Chinese and English comparison. 2. Customized optimization for common mainstream websites, such as Twitter, Reddit, Discord, Gmail, Telegram, Youtube, Hacker News, etc. 3. Support PDF files, EPUB e-book bilingual translation, production and export. 4. Support mobile |
 | Download-Plugin | [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) | 1.2k | A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link | 1. Download chatgpt official website chat history PNG |
 | ChatGPT-Enhance-Plugin-01 | [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) | 4.6k | WebChatGPT: A browser extension that augments your ChatGPT prompts with web results. | 1. This browser extension adds web access to Chat GPT. Get more relevant and up-to-date answers from chatbots! |
-| ChatGPT-Enhance-Plugin-02 | [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 501 | A browser extension to add the missing features like Folders, Search, and Community Prompts to ChatGPT | 1.Folders and reordering for your chats2.Search and Highlight |
+| ChatGPT-Enhance-Plugin-02 | [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 501 | ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features | 1.Folders and reordering for your chats2.Search and Highlight |
 | Voice-Plugin-01 | [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) | 977 | Talk to ChatGPT AI using your voice and listen to its answers through a voice | 1. Voice communication with Chat GPT! 2. Support multiple languages |
 | Voice-Plugin-02 | [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) | 152 | A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant | 1.Chassistant GPT supports more than 60 languages and dialects. Select your native language and custom trigger phrase (configurable in the tab) |
 | Share-Plugin | [sharegpt](https://github.com/domeccleston/sharegpt) | 1.1k | Easily share permanent links to ChatGPT conversations with your friends | 1. One-click share of your own Chat GPT conversation to https:sharegpt .com |
@@ -296,19 +293,19 @@ Curated collection of open source projects
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
 | Editor-vscode-Plugin | [chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) | 4.4k | A VSCode extension that allows you to use ChatGPT | 1. Use the snippet in the editor to query Chat GPT via the input box in the sidebar 2. Right-click the code, select and run one of the context menu shortcuts, 3. See the response from Chat GPT in the panel next to the editor |
-| Editor-Neovim-Plugin | [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) | 1.6k | Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP. | 1. Command to open an interactive window 2. Support Awesome ChatGPT Prompts command |
-| Editor-IDA Pro-Plugin | [Gepetto](https://github.com/JusticeRage/Gepetto) | 2.1k | IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering | 1. Support interpretation function 2. Support renaming variables |
+| Editor-Neovim-Plugin | [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) | 1.6k | ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API | 1. Command to open an interactive window 2. Support Awesome ChatGPT Prompts command |
+| Editor-IDA Pro-Plugin | [Gepetto](https://github.com/JusticeRage/Gepetto) | 2.1k | IDA plugin which queries OpenAI's GPT language models to speed up reverse-engineering | 1. Support interpretation function 2. Support renaming variables |
 | Editor-JetBrains-Plugin | [JetBrains-插件](https://github.com/dromara/ChatGPT) | 729 | This project is a plugin that supports ChatGPT running on JetBrains series IDE. | 1. Use the snippet in the editor to query Chat GPT via the input box in the sidebar 2. Right-click the code, select and run one of the context menu shortcuts, 3. See the response from Chat GPT in the panel next to the editor |
-| Editor-intellij-Plugin | [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt) | 101 | A plugin that integrates ChatGPT and other third-party mirror sites into JetBrains IDEs. | 1. Integrate free third-party mirror websites, and update conveniently. |
+| Editor-intellij-Plugin | [intellij-chatgpt](https://github.com/LiLittleCat/intellij-chatgpt) | 101 | A plugin that integrates ChatGPT and other third-party mirror sites into JetBrains IDEs.一个将 ChatGPT 和其他第三方镜像网站整合到 JetBrains IDEs 的插件。 | 1. Integrate free third-party mirror websites, and update conveniently. |
 | Efficiency Tools-raycast-Plugin | [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast) | 474 | ChatGPT raycast extension | 1. Use Mac shortcuts to directly evoke Chat GPT for conversation 2. Customize conversation instructions |
 | Google Docs-Plugin | [docGPT](https://github.com/cesarhuret/docGPT) | 523 | ChatGPT directly within Google Docs as an Editor Add-on 📑 | 1.Chat GPT is directly integrated into Google Docs 2. Select Doc to send to chatGPT with one click |
 | Kubernetes-Plugin-01 | [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) | 579 | A ChatGPT bot for Kubernetes issues. | 1. Ask Chat GPT for Prometheus alerts directly to fix the alarms, and 2. Rely on the observability artifact robusta |
 | Kubernetes-Plugin-02 | [kubectl-ai](https://github.com/sozercan/kubectl-ai) | 672 | ✨ Kubectl plugin for OpenAI GPT | 1. Generate Kubernetes configurations in natural language |
 | github-Plugin-01 | [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) | 1.6k | 🐥 A code review bot powered by ChatGPT | 1. Let Chat GPT automatically review Code 2. Have Chat GPT check your PR |
-| github-Plugin-02 | [chatgpt-action](https://github.com/kxxt/chatgpt-action) | 498 | Let ChatGPT review PRs for you | 1. Let Chat GPT automatically review Code 2. Have Chat GPT check your PR |
-| Baidu-XiaoAi-Plugin | [xiaogpt](https://github.com/yihong0618/xiaogpt) | 2.7k | Play ChatGPT with xiaomi AI speaker | 1. Play Chat GPT with Xiaomi AI speaker |
+| github-Plugin-02 | [chatgpt-action](https://github.com/kxxt/chatgpt-action) | 498 | Let ChatGPT review PRs for you  | 1. Let Chat GPT automatically review Code 2. Have Chat GPT check your PR |
+| Baidu-XiaoAi-Plugin | [xiaogpt](https://github.com/yihong0618/xiaogpt) | 2.7k | Play ChatGPT and other LLM with Xiaomi AI Speaker | 1. Play Chat GPT with Xiaomi AI speaker |
 | Blender-Plugin | [BlenderGPT](https://github.com/gd3kr/BlenderGPT) | 3.2k | Use commands in English to control Blender with OpenAI's GPT-4 | 1. Quickly build a 3D model after only entering text |
-| Siri-Plugin | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 2.6k | Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. | 1. Support continuous conversation 2. Configure system prompt 3. Save chat history |
+| Siri-Plugin | [ChatGPT-Siri](https://github.com/Yue-Yang/ChatGPT-Siri) | 2.6k | Shortcuts for Siri using ChatGPT API gpt-3.5-turbo & gpt-4 model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo & gpt-4 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。 | 1. Support continuous conversation 2. Configure system prompt 3. Save chat history |
 
 
 ### GPT Open Source Replacement Robot🔥🔥🔥
@@ -318,17 +315,17 @@ Curated collection of open source projects
 
 | github address | star | introduction | function |
 | --- | --- | --- | --- |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | 27.3k | gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue | 1. Local training, tuning |
-| [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) | 1k | gpt4all chatbot ui | 1. Use the UI interface to train, tune, and use locally |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | 27.3k | gpt4all: run open-source LLMs anywhere | 1. Local training, tuning |
+| [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) | 1k | Lord of Large Language Models Web User Interface | 1. Use the UI interface to train, tune, and use locally |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | 22.0k | OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so. | Open Assistant is a project designed to make a large conversation-based language model accessible to everyone. |
 | [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 19.8k | Code and documentation to train Stanford's Alpaca models, and generate the data. |  |
 | [DeepSpeed Chat🔥](https://github.com/microsoft/DeepSpeed) | 15.6k | DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. |  |
-| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 16.0k | ChatGLM-6B：Open source bilingual conversational language model | An Open Bilingual Dialogue Language Model |
+| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 16.0k | ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型 | An Open Bilingual Dialogue Language Model |
 | [minGPT](https://github.com/karpathy/minGPT) | 14.3k | A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training |  |
-| [FastChat](https://github.com/lm-sys/FastChat) | 12.5k | The release repo for "Vicuna: An Open Chatbot Impressing GPT-4" | 1. Stanford teamed up with CMU, UC Berkeley and other institutions to release the 13 billion parameter model Vicuna, which can achieve 90% of the performance of ChatGPT for only $300. |
-| [MiniGPT-4🔥](https://github.com/Vision-CAIR/MiniGPT-4) | 9.9k | MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models | 1. Identify pictures and have conversations |
+| [FastChat](https://github.com/lm-sys/FastChat) | 12.5k | An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. | 1. Stanford teamed up with CMU, UC Berkeley and other institutions to release the 13 billion parameter model Vicuna, which can achieve 90% of the performance of ChatGPT for only $300. |
+| [MiniGPT-4🔥](https://github.com/Vision-CAIR/MiniGPT-4) | 9.9k | Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/) | 1. Identify pictures and have conversations |
 | [alpaca-lora](https://github.com/tloen/alpaca-lora) | 9.2k | Instruct-tune LLaMA on consumer hardware | 1. The use of LoRA lightweight model 2. Only a small number of parameters need to be trained to obtain an effect comparable to the Standford Alpaca model, 3. RTX 4090 is required to play |
-| [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) | 796 | This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora) |  |
+| [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) | 796 | This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface |  |
 | [stableLM🔥](https://github.com/stability-AI/stableLM) | 8.1k | StableLM: Stability AI Language Models | StableLM was trained on a larger open-source dataset The Pile that contains information from a variety of sources, including Wikipedia, the question-and-answer site Stack Exchange, and the biomedical database PubMed, which is three times the size of The Pile Containing 1.5 trillion tokens, its hyperscale makes StableLM ultra-high performance in sessions and encoding, but it currently has only 3-7 billion parameters, while GPT-3 has 175 billion parameters. |
 | [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) | 7.5k | Built by the former Open AI team, OpenChatKit provides a strong open source foundation for creating specialized and general-purpose chatbots for a variety of applications. | 1.Language model with 20 billion parameters Users only need to prepare their own datasets and use Open Chat Kit's recipe to fine-tune the model to obtain high-precision results. |
 | [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 7.3k | A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA. |  |
