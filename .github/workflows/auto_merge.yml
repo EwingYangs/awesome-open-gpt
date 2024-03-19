@@ -1,6 +1,9 @@
 name: Merge Files automatically
 
 on:
+  schedule:
+    - cron: "0 0 * * *" # daily cron
+
   push:
     branches:
         - main
