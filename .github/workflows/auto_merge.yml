@@ -32,6 +32,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
+        git config --global user.email "2450854008@qq.com"
+        git config --global user.name "Country-If"
         git add README.md README_en.md
         git commit -m "automatically commit and push"
         git push origin HEAD:main
