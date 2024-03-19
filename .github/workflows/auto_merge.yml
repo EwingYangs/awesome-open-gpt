@@ -12,6 +12,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Checkout Main Branch
+      uses: actions/checkout@v2
+      with:
+        ref: main
+        path: main
+
     - name: Install Requirements
       run: |
         pip install -r requirements.txt
