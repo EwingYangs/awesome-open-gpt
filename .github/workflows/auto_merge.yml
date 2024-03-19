@@ -16,7 +16,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref: main
-        path: main
+        path: ./
 
     - name: Install Requirements
       run: |
