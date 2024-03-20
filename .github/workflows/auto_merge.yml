@@ -35,8 +35,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.email ${{secrets.EMAIL}}
-        git config --global user.name ${{secrets.USERNAME}}
+        git config user.name "Overleaf Sync Bot"
+        git config user.email "actions@github.com
         git add README.md README_en.md
         git commit -m "automatically commit and push" || true
         git push origin HEAD:main || true
