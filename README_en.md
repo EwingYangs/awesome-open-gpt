@@ -94,7 +94,7 @@ Curated collection of open source projects
 | Go-OpenAi Client | [go-openai](https://github.com/sashabaranov/go-openai) | 4.3k | OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go | 1.support GPT-4 |
 | PHP-OpenAi Client | [openai-php](https://github.com/orhanerday/open-ai) | 1.5k | OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported) |  |
 | Android-ChatGPT Client | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose. |  |
-| .Net-ChatGPT Client | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E |  |
+| .Net-ChatGPT Client | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E  |  |
 
 
 ### GPT Auto
@@ -125,16 +125,16 @@ Curated collection of open source projects
 | Wechat-ChatGPT-Robot-02 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 9.4k | 基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。 | 1. Support rule customization 2. Multi-account 3. Image generation 4. Context memory 5. Speech recognition 6. Plug-in |
 | Wechat-ChatGPT-Robot-03 | [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | 3.6k | ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot | 1. Support contextual dialogue. 2. Support resetting the context context, and reset the conversation context through the keyword (reset). 3. Support in group chat @ your bot 🤖 , @robot to receive a response. 4. Support waking up your bot with keywords, such as receiving a reply when sending "@robot hello xxxx" in the group. |
 | Wechat-ChatGPT-Robot-04 | [openai-on-wechat](https://github.com/riba2534/openai-on-wechat) | 100 | 🍺基于 Golang 实现的，OpenAI 微信聊天机器人 | - Text conversation: You can receive private chat group chat messages, use OpenAI's gpt-3.5-turbo to generate reply content, automatically reply to questions- Trigger password setting: Friends need to bring a specified prefix when sending you a message to trigger a conversation with GPT bot, and the trigger password can be set in the configuration file- Continuous conversation: support for private chat group chat Turn on the continuous conversation function, you can set how many minutes you need to remember through the configuration file- Image generation: You can generate pictures according to the description, And automatically reply in the current private chat group chat |
-| QQ AND Telegraph-ChatGPT-Robot | [OpenaiBot](https://github.com/LlmKira/Openaibot) | 1.4k | 🚧V4🚧⚡️ Build Your Own ChatGptBot | 🧀 Discord/Slack/Kook/Telegram |
+| QQ AND Telegraph-ChatGPT-Robot | [OpenaiBot](https://github.com/LlmKira/Openaibot) | 1.4k | 🚧V4🚧⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖 Plugin Support | 🌻 Docker Deploy | 🧀 Discord/Slack/Kook/Telegram |
 | Discord-ChatGPT-Robot | [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | 1.9k | Integrate ChatGPT into your own discord bot | 1. Switch GPT interface mode, support 4.0 2. Support Dalle2 raw graph |
 | Telegraph-ChatGPT-Robot-01 | [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) | 2.5k | Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease. | 1. Use Cloudflare Workers, single file, directly copy and paste a shuttle, without any dependencies, no need to configure a local development environment, no domain name, no server |
 | Telegraph-ChatGPT-Robot-02 | [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) | 1.2k | 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python | 1. Support markdown output 2. Docker and Proxy support 3.Support DALL· 3. Support for transcribing audio and video messages using Whisper |
 | QQ-ChatGPT-Robot-01 | [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | 4.7k | 🚀 One-click deployment! A true AI chatbot！Support ChatGPT、文心一言、Bing、Bard、ChatGLM、POE | Support QQ, Telegram, Discord and other platforms |
-| QQ-ChatGPT-Robot-02 | [QChatGPT](https://github.com/RockChinQ/QChatGPT) | 2.2k | 😎High stability、🐒Low coupling、🧩ChatGPT New Bing QQ bot that supports plug-ins and adapts to multiple models🤖 | 1. GPT-4, New Bing 2. Support dialogue, drawing and other models, higher playability 3. Private chat, group chat blacklist mechanism |
+| QQ-ChatGPT-Robot-02 | [QChatGPT](https://github.com/RockChinQ/QChatGPT) | 2.2k | 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 ChatGPT、Claude、Gemini Pro、Moonshot、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人平台 | 1. GPT-4, New Bing 2. Support dialogue, drawing and other models, higher playability 3. Private chat, group chat blacklist mechanism |
 | WhatsApp-ChatGPT-Robot | [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | 2.9k | Quickly access ChatGPT on WhatsApp | 1.Chatbots |
-| Feishu-ChatGPT-Robot-01 | [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) | 3.7k | 🎒Feishu ×（GPT-3.5 + DALL·E + Whisper）= Fly general work experience 🚀 Voice dialogue, role play, multi-topic discussion, picture creation, table analysis, document export 🚀 | 1. 🚀 Voice dialogue, role-playing, multi-topic discussion, picture creation, table analysis, document export 🚀 |
-| Feishu-ChatGPT-Robot-02 | [ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) | 836 | ChatGPT bots for Feishu | 1.Simple version |
-| Dingtalk-ChatGPT-Robot | [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) | 1.5k | 🔔 Dingtalk & 🤖 GPT-3.5 Let your work efficiency take off 🚀 directly Private chat group chat mode, single chat chat mode, role play, picture creation 🚀 | 1. Private chat with the robot 2. Help list 3. Switch mode 4. Check balance 5. Daily problems 6. Chat support through built-in prompt 7. Generate pictures 8. GPT-4 |
+| Feishu-ChatGPT-Robot-01 | [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) | 3.7k | 🎒 飞书 ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀 | 1. 🚀 Voice dialogue, role-playing, multi-topic discussion, picture creation, table analysis, document export 🚀 |
+| Feishu-ChatGPT-Robot-02 | [ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) | 836 | 给飞书准备的 ChatGPT 机器人 | 1.Simple version |
+| Dingtalk-ChatGPT-Robot | [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk) | 1.5k | 🎒 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀 | 1. Private chat with the robot 2. Help list 3. Switch mode 4. Check balance 5. Daily problems 6. Chat support through built-in prompt 7. Generate pictures 8. GPT-4 |
 | LINE-ChatGPT-Robot-01 | [gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant) | 5.0k | OpenAI + LINE + Vercel = GPT AI Assistant | 1. Support character shaping 2. Support custom Prompt template 3. Support Wen Sheng diagram |
 | LINE-ChatGPT-Robot-02 | [ChatGPT-Line-Bot](https://github.com/TheExplainthis/ChatGPT-Line-Bot) | 624 | This is a repository that allows you to integrate ChatGPT into Line. | 1. Support Wen Sheng Picture 2. Summarize Youtube video content and new articles |
 | Slack-ChatGPT-Robot | [myGPTReader](https://github.com/madawei2699/myGPTReader) | 3.7k | A community-driven way to read and chat with AI bots - powered by chatGPT. | 1. Any web page, e-book, video (YouTube) or document can be read and summarized via chatGPT. It can also talk to you by voice |
@@ -151,16 +151,16 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Paper summary | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | Use ChatGPT to summarize the arXiv papers. | 1. Paper summary + editing + review + review response |
-| Paper conversation | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | An open-source LLM based research assistant that allows you to have a conversation with a research paper | Upload your paper and talk to it. |
+| Paper summary | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复 | 1. Paper summary + editing + review + review response |
+| Paper conversation | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | A LLM based research assistant that allows you to have a conversation with a research paper | Upload your paper and talk to it. |
 | PDF Talk-01 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | GPT4 & LangChain Chatbot for large PDF docs | 1. Build chatGPT chatbots for multiple large PDF files using the new GPT-4 API. |
-| PDF Talk-02 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 1.1k | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot! | 1.Talk based on CPT and uploaded PDF files |
-| PDF summary | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | GPT-powered chat for documentation search & assistance. | 1. Support summary PDF 2. Support sharing to discord |
+| PDF Talk-02 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 1.1k | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot! | 1.Talk based on CPT and uploaded PDF files |
+| PDF summary | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | GPT-powered chat for documentation, chat with your documents | 1. Support summary PDF 2. Support sharing to discord |
 | PPT generate | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 540 | Use ChatGPT (or other backends) to generate PPT automatically, all in one single file. | 1. Generate ppt according to the title with one click 2. Support multiple languages |
 | PDF reading | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 846 | Enjoy reading with your favorite style. | The tool is designed to help users convert text from one format to another, as well as translate it into another language using the OpenAI API (model=gpt-3.5-turbo). Currently supports PDF, DOCX, MOBI and EPUB file format conversion into EPUB files and text files, which can translate text into multiple languages. |
 | markdown | [markprompt](https://github.com/motifland/markprompt) | 1.6k | Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics | 1. It scans the GitHub repository for Markdown, Markdoc, and MDX files and creates embeddings that can be used to create prompts |
-| Documents generate answers to questions | [auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) | 346 | Enter documents to automatically generate questions, answers, scores | 1. Automatically generate question answers 2. Score responses relative to answers 3. Support json, PDF, TXT and other formats |
-| Documentation Knowledge Base | [vault-ai](https://github.com/pashpashpash/vault-ai) | 1.7k | OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend. | 1.Supported Filetypes:PDFs, .txt, .rtf, and plaintext. .docx support coming soon! |
+| Documents generate answers to questions | [auto-evaluator](https://github.com/PineappleExpress808/auto-evaluator) | 346 | Evaluation tool for LLM QA chains | 1. Automatically generate question answers 2. Score responses relative to answers 3. Support json, PDF, TXT and other formats |
+| Documentation Knowledge Base | [vault-ai](https://github.com/pashpashpash/vault-ai) | 1.7k | OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend. | 1.Supported Filetypes:PDFs, .txt, .rtf, and plaintext. .docx support coming soon! |
 
 
 #### GPT-Tool-Programming
@@ -170,17 +170,17 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| git tools-02 | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | GPT CLI to auto-generate impressive commits in 1 second 🤯🔫 | Automatically generate clear, comprehensive, and descriptive commit messages |
+| git tools-02 | [opencommit](https://github.com/di-sukharev/opencommit) | 3.0k | Auto-generate impressive commits with AI in 1 second 🤯🔫 | Automatically generate clear, comprehensive, and descriptive commit messages |
 | git tools-01 | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.0k | A git prepare-commit-msg hook for authoring commit messages with GPT-3. | git prepare-commit-msg hook for writing commit messages in GPT-3. With this tool, you can easily generate clear, comprehensive, and descriptive commit messages |
 | github robot | [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot) | 331 | 🤖️ A ChatGPT based GitHub robot. dialogue/CR/etc.. |  |
 | Error detection-01 | [wolverine🔥](https://github.com/biobootloader/wolverine) | 4.1k | Run the scripts with Wolverine, and when they crash, GPT-4 will edit them and explain where the error lies. Even if you have a lot of bugs, it will rerun again and again until it is fixed. |  |
 | Error detection-02 | [stackexplain](https://github.com/shobrook/stackexplain) | 455 | Explain your error message with ChatGPT | Run the pythohn script with the stackexplain command and automatically detect errors to give the correct fix |
 | SQL Client-01 | [sqlchat](https://github.com/sqlchat/sqlchat) | 1.5k | Chat-based SQL Client and Editor for the next decade | 1.Supports My SQL and Postgre SQL |
-| SQL Client-02 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 1.2k | An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities | 1.AI intelligent assistant, supporting natural language to SQL conversion, SQL to natural language conversion, and SQL optimization suggestions 2. Powerful extension capability, currently supporting MySQL, PostgreSQL, Oracle, SQLServer, ClickHouse, OceanBase, H2, SQLite, etc., and more databases will be supported in the future |
+| SQL Client-02 | [Chat2DB](https://github.com/chat2db/Chat2DB) | 1.2k | 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities. | 1.AI intelligent assistant, supporting natural language to SQL conversion, SQL to natural language conversion, and SQL optimization suggestions 2. Powerful extension capability, currently supporting MySQL, PostgreSQL, Oracle, SQLServer, ClickHouse, OceanBase, H2, SQLite, etc., and more databases will be supported in the future |
 | Code search engine | [bloop](https://github.com/BloopAI/bloop) | 3.6k | bloop is a fast code search engine written in Rust. | 1. Regular expression search 2. Sync local and Github repositories |
 | Code generation | [aiac](https://github.com/gofireflyio/aiac) | 2.4k | Artificial Intelligence Infrastructure-as-Code Generator. | 1. Generate Ia C 2. Generate docker, k 8 s placement 3. Generate CICD 4. Generate SQL |
 | Language conversion | [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) | 2.8k | Use AI to translate code from one language to another. |  |
-| Data Processing | [pandas-ai🔥](https://github.com/gventuri/pandas-ai) | 3.2k | Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational. |  |
+| Data Processing | [pandas-ai🔥](https://github.com/gventuri/pandas-ai) | 3.2k | Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG. |  |
 
 
 #### GPT-Tool-Media
@@ -190,12 +190,12 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT · One-click AI Summary for video & audio content: Bilibili、YouTube、Local files、Websites、Podcasts、Meetings、Lectures, etc. | Under development: Support input such as web pages, podcasts, meetings, and local audio and video files, and Prompt and output are in continuous iteration |
-| Video Chat | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 906 | ChatGPT with video understanding! | 1.support miniGPT4、StableLM 和 MOSS |
-| Voice-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 3.6k | Understanding and Generating Speech, Music, Sound, and Talking Head | 1.support Sing2.support generate BGM3.Speech |
+| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表) | Under development: Support input such as web pages, podcasts, meetings, and local audio and video files, and Prompt and output are in continuous iteration |
+| Video Chat | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 906 | [CVPR2024][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. | 1.support miniGPT4、StableLM 和 MOSS |
+| Voice-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 3.6k | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | 1.support Sing2.support generate BGM3.Speech |
 | Voice-02 | [speechgpt](https://github.com/hahahumble/speechgpt) | 2.1k | 💬 SpeechGPT is a web application that enables you to converse with ChatGPT. | 1. Adapt to mobile 2. Support more than 100 languages 3. Voice sparring 4. Integrate Azure voice services |
 | Voice-03 | [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) | 1.3k | An open-source ChatGPT app with a voice | 1. Integrate Eleven Labs' voice services 2. Support docker deployment |
-| Voice-04 | [polyglot](https://github.com/liou666/polyglot) | 494 | 🤖️ Desktop-side AI language practice app | 1. Multi-Chinese speaking practice 2. Intelligent speech synthesis 3. Intelligent dialogue function |
+| Voice-04 | [polyglot](https://github.com/liou666/polyglot) | 494 | 🤖️ Cross-platform AI language practice app （跨平台AI语言练习应用） | 1. Multi-Chinese speaking practice 2. Intelligent speech synthesis 3. Intelligent dialogue function |
 
 
 #### GPT-Tool-Chart
@@ -205,7 +205,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| AI chart | [chart-gpt](https://github.com/whoiskatrin/chart-gpt) | 1.4k | An artificial intelligence tool for building diagrams based on text input. |  |
+| AI chart | [chart-gpt](https://github.com/whoiskatrin/chart-gpt) | 1.4k | AI tool to build charts based on text input |  |
 | AI-generated visualization | [SolidUI](https://github.com/CloudOrc/SolidUI.git) | 139 | AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing. |  |
 
 
@@ -216,7 +216,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Penetration testing tools | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | PentestGPT is a penetration testing tool powered by GPT4. |  |
+| Penetration testing tools | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | A GPT-empowered penetration testing tool |  |
 
 
 #### GPT-Tool-General
