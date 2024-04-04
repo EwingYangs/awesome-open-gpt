@@ -93,7 +93,7 @@ Curated collection of open source projects
 | Node-ChatGPT-Bing Client | [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | 3.2k | A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app. | 1.support BingAIClient2.support ChatGPTBrowserClient reverse |
 | Go-OpenAi Client | [go-openai](https://github.com/sashabaranov/go-openai) | 4.3k | OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go | 1.support GPT-4 |
 | PHP-OpenAi Client | [openai-php](https://github.com/orhanerday/open-ai) | 1.5k | OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported) |  |
-| Android-ChatGPT Client | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose. |  |
+| Android-ChatGPT Client | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose. |  |
 | .Net-ChatGPT Client | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI .NET sdk - ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI and DALL-E  |  |
 
 
