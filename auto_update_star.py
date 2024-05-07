@@ -32,6 +32,7 @@ def get_star_count(url):
     else:
         return None
 
+
 def do_auto_update_star():
     # 读取md文件的内容
     with open("./README.md", 'r', encoding='utf-8') as f:
@@ -89,7 +90,7 @@ def do_auto_update_star():
     h.single_line_break = True
     markdown_text = md(str(soup))
 
-    with open("README_new.md", "w") as f:
+    with open("README.md", "w") as f:
         f.write(markdown_text)
 
 
