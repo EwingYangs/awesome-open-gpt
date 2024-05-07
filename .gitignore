@@ -40,3 +40,9 @@ next-env.d.ts
 # Scripts
 getUsersEmails.ts
 http_cache.sqlite
+
+### IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
