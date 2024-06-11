@@ -190,7 +190,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表) | YouTube |
+| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube |
 | Video Chat | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 906 | [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. | 1.support miniGPT4、StableLM 和 MOSS |
 | Voice-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 3.6k | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | 1.support Sing2.support generate BGM3.Speech |
 | Voice-02 | [speechgpt](https://github.com/hahahumble/speechgpt) | 2.1k | 💬 SpeechGPT is a web application that enables you to converse with ChatGPT. | 1. Adapt to mobile 2. Support more than 100 languages 3. Voice sparring 4. Integrate Azure voice services |
