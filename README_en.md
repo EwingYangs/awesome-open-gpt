@@ -94,7 +94,7 @@ Curated collection of open source projects
 | Go-OpenAi Client | [go-openai](https://github.com/sashabaranov/go-openai) | 4.3k | OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go | 1.support GPT-4 |
 | PHP-OpenAi Client | [openai-php](https://github.com/orhanerday/open-ai) | 1.5k | OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported) |  |
 | Android-ChatGPT Client | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose. |  |
-| .Net-ChatGPT Client | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper, and DALL-E  |  |
+| .Net-ChatGPT Client | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper, and DALL-E |  |
 
 
 ### GPT Auto
