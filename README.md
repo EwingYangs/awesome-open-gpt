@@ -256,6 +256,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 讲故事 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 1.4k | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型 |  |
 | AR体验 | [ChatARKit](https://github.com/trzy/ChatARKit) | 413 | 使用ChatGPT以自然语言创建AR体验 | 1.基于Sketchfab-3D模型网站 |
 | Apple健康 | [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | 1.6k | 使用自然语言💬🩺查询Apple Health数据 | 1.与 Apple Health 应用程序集成以确保无缝地使用第一方数据2.开箱即用支持查询睡眠、步数、活跃能量、运动分钟数、心率和体重。 |
+| AI 搜索 | [MemFree](https://github.com/memfreeme/memfree) | 141 | Hybrid AI 搜索引擎 | 1.同时对您的个人知识库（如书签、笔记、文档等）和互联网进行搜索 2.一键 Chrome 书签索引 3. 前后端一键部署
 
 
 ### GPT插件
