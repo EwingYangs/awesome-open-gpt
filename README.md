@@ -89,7 +89,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| Node-ChatGPT客户端 | [chatgpt-node](https://github.com/transitive-bullshit/chatgpt-api) | 16.3k | 官方ChatGPT API的Node.js客户端。 |  |
+| Node-ChatGPT客户端 | [chatgpt-node](https://github.com/transitive-bullshit/chatgpt-api) | 16.4k | 官方ChatGPT API的Node.js客户端。 |  |
 | Python-ChatGPT客户端 | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | 4.2k | 非官方ChatGPT API的Python客户端。 | 1.具有自动令牌再生，会话跟踪，代理支持等 |
 | Python-Shell-ChatGPT客户端 | [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) | 3.6k | 在python或者命令行中使用ChatGPT | 1.支持ChatGPT4 |
 | Java-ChatGPT客户端-01 | [chatgpt-java](https://github.com/PlexPt/chatgpt-java) | 3.6k | ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。 | 1.支持上下文、阻塞式对话、代理等 |
@@ -112,9 +112,9 @@ awesome-open-gpt/gpt相关开源项目合集
 | GPT自动化-01 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 167.5k | 自动化的GPT | 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。 |
 | GPT自动化-01-插件 | [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 3.9k | AutoGPT的插件 | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！! |
 | GPT自动化-01-图形界面 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 1.5k | AutoGPT的图形用户界面 |  |
-| GPT自动化-01-图形界面 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 181 | 一键免费部署你的私人AutoGPT 网页应用 | 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文 |
+| GPT自动化-01-图形界面 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 182 | 一键免费部署你的私人AutoGPT 网页应用 | 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文 |
 | GPT自动化-01-中文版 | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 2.4k | 自动化的GPT-中文版 |  |
-| GPT自动化-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 31.5k | 在浏览器中组装、配置和部署自动AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
+| GPT自动化-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 31.6k | 在浏览器中组装、配置和部署自动AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 20.2k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.8k | 基于GPT3.5/4的最小通用自主代理。 | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。 |
 
