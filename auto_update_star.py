@@ -32,6 +32,7 @@ def get_star_count(url):
     else:
         return None
 
+
 def do_auto_update_star():
     # 读取md文件的内容
     with open("./README.md", 'r', encoding='utf-8') as f:
