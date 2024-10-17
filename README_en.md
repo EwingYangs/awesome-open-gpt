@@ -2,11 +2,10 @@ awesome-open-gpt
 ----------------
 
 
-
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
 
 ![ChatGPT](./images/gpt-header.jpeg)
 
@@ -14,10 +13,9 @@ awesome-open-gpt
 * **awesome-open-gpt** is a collection of 170+(The most complete in the whole network) selected open source projects related to GPT 🚀. Popular projects are marked with 🔥, including some GPT mirrors, GPT enhancements, GPT plugins, GPT tools, chatbots based on GPT-based conversational AI, open-source large-scale language models, and more.
 * The purpose of the **awesome-list is** to help all GPT enthusiasts better focus on GPT open source applications, while also providing some useful resources for those who want to learn and use GPT models.
 * **awesome-open-gpt** will continue to be updated, hoping to see more excellent GPT-related projects emerge!!! Also, the number of likes will be automatically updated every day (the script that automatically updates the star is also written using ChatGPT).
-
-
-
 * [Curated collection of open source projects](#curated-collection-of-open-source-projects)
+
+
 	+ [GPT-Mirror Surrogate](#gpt-mirror-surrogate)
 	+ [GPT Programming Language Client](#gpt-programming-language-client)
 	+ [GPT Auto](#gpt-auto)
@@ -40,7 +38,6 @@ awesome-open-gpt
 	+ [Other（Platform、Reverse engineering）](#otherplatformreverse-engineering)
 * [Relevant materials](#relevant-materials)
 * [Contribution](#contribution)
-
 
 
 Curated collection of open source projects
@@ -90,14 +87,14 @@ Curated collection of open source projects
 | Node-ChatGPT Client | [chatgpt-node](https://github.com/transitive-bullshit/chatgpt-api) | 13.0k | Node.js client for the official ChatGPT API. 🔥 |  |
 | Python-ChatGPT Client | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | 3.9k | ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. | 1. Has automatic token regeneration, session tracking, proxy support, etc |
 | Python-Shell-ChatGPT Client | [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) | 3.1k | API for interacting with ChatGPT and GPT4 using Python and from Shell. | 1.support ChatGPT4 |
-| Java-ChatGPT Client-01 | [chatgpt-java](https://github.com/PlexPt/chatgpt-java) | 2.0k | ChatGPT Java SDK。support GPT3.5、 GPT4 API。Works right out of the box。 | 1. Support context, blocking dialogs, agents, etc |
-| Java-ChatGPT Client-02 | [chatgpt-java](https://github.com/Grt1228/chatgpt-java) | 1.2k | Java client for Chat GPT。OpenAI GPT-3.5-Turb GPT-4 Api Client for Java | 1. Support all official interfaces of Open AI 2. Support streaming output |
-| Java-OpenAi Client | [openai-java](https://github.com/TheoKanning/openai-java) | 2.5k | OpenAI GPT-3 Api Client in Java | 1.support GPT-4 |
+| Java-ChatGPT Client-01 | [chatgpt-java](https://github.com/PlexPt/chatgpt-java) | 2.0k | ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。 | 1. Support context, blocking dialogs, agents, etc |
+| Java-ChatGPT Client-02 | [chatgpt-java](https://github.com/Grt1228/chatgpt-java) | 1.2k | ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4 Api Client for Java | 1. Support all official interfaces of Open AI 2. Support streaming output |
+| Java-OpenAi Client | [openai-java](https://github.com/TheoKanning/openai-java) | 2.5k | OpenAI Api Client in Java | 1.support GPT-4 |
 | Node-ChatGPT-Bing Client | [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | 3.2k | A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app. | 1.support BingAIClient2.support ChatGPTBrowserClient reverse |
 | Go-OpenAi Client | [go-openai](https://github.com/sashabaranov/go-openai) | 4.3k | OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go | 1.support GPT-4 |
 | PHP-OpenAi Client | [openai-php](https://github.com/orhanerday/open-ai) | 1.5k | OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported) |  |
-| Android-ChatGPT Client | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 📲 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose. |  |
-| .Net-ChatGPT Client | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI ChatGPT, Whisper, GPT-3 , GPT-4, Azure OpenAI and DALL-E dotnet SDK |  |
+| Android-ChatGPT Client | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 2.6k | 📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose. |  |
+| .Net-ChatGPT Client | [openai-dotnet](https://github.com/betalgo/openai) | 1.6k | OpenAI .NET sdk - Azure OpenAI, ChatGPT, Whisper, and DALL-E  |  |
 
 
 ### GPT Auto
@@ -110,12 +107,12 @@ Curated collection of open source projects
 | GPT Auto-01 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 91.1k | An experimental open-source attempt to make GPT-4 fully autonomous. | 1. Unlike Chat GPT, users do not need to constantly ask questions to the AI to get corresponding answers, in Auto GPT just provide it with an AI name, description and five goals, and then Auto GPT can complete the project by itself.2. It can read and write files, browse the web, review the results of its own prompts, and combine it with the history of said prompts. |
 | GPT Auto-01-plugins | [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 482 | Plugins for Auto-GPT | There is no content for the time being, the repository comes from Auto GPT authors, it is worth paying attention to!!! |
 | GPT Auto-01-web | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 675 | A graphical user interface for AutoGPT |  |
-| GPT Auto-01-web | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 671 | Assemble, configure, and deploy autonomous AI Agents in your browser. | 1.Free one-click deployment with Vercel in 1 minute2.Improved local support: After typing in Chinese, the content will be displayed in Chinese instead of English |
-| GPT Auto-01-Chinese version | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 307 | Auto-GPT Chinese version and hobbyist organization Synchronously update the original project AI field entrepreneurship Self-media organization Use AI work and learning to create monetization |  |
+| GPT Auto-01-web | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 671 | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用 | 1.Free one-click deployment with Vercel in 1 minute2.Improved local support: After typing in Chinese, the content will be displayed in Chinese instead of English |
+| GPT Auto-01-Chinese version | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 307 | Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 |  |
 | GPT Auto-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 15.6k | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 1. Name your own custom AI and let it start with whatever goal you can think of. It will try to do the task by thinking about it |
 | GPT Auto-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | Just give a goal and task iteration to let the AI automate your task |  |
-| GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
-| GPT Auto-05 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 56 | DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on the Langchain documentation tree. | Just give a prompt and then let DemoGPT prepare the whole pipeline and create your custom application according to this pipeline. Then, just with your prompt, you can create your dream application |
+| GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | MiniAGI is a simple general-purpose autonomous agent based on the OpenAI API. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
+| GPT Auto-05 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 56 | 🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place. | Just give a prompt and then let DemoGPT prepare the whole pipeline and create your custom application according to this pipeline. Then, just with your prompt, you can create your dream application |
 
 
 ### Third Platform Robot
@@ -158,7 +155,7 @@ Curated collection of open source projects
 | Paper summary | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 9.5k | Use ChatGPT to summarize the arXiv papers. | 1. Paper summary + editing + review + review response |
 | Paper conversation | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 2.7k | An open-source LLM based research assistant that allows you to have a conversation with a research paper | Upload your paper and talk to it. |
 | PDF Talk-01 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 7.3k | GPT4 & LangChain Chatbot for large PDF docs | 1. Build chatGPT chatbots for multiple large PDF files using the new GPT-4 API. |
-| PDF Talk-02 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 1.1k | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot! | 1.Talk based on CPT and uploaded PDF files |
+| PDF Talk-02 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 1.1k | PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot! | 1.Talk based on CPT and uploaded PDF files |
 | PDF summary | [DocsGPT](https://github.com/arc53/DocsGPT) | 4.6k | Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow | 1. Support summary PDF 2. Support sharing to discord |
 | PPT generate | [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) | 540 | Use ChatGPT (or other backends) to generate PPT automatically, all in one single file. | 1. Generate ppt according to the title with one click 2. Support multiple languages |
 | PDF reading | [ebook-GPT-translator](https://github.com/jesselau76/ebook-GPT-translator) | 846 | Enjoy reading with your favorite style. | The tool is designed to help users convert text from one format to another, as well as translate it into another language using the OpenAI API (model=gpt-3.5-turbo). Currently supports PDF, DOCX, MOBI and EPUB file format conversion into EPUB files and text files, which can translate text into multiple languages. |
@@ -195,7 +192,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表) | Under development: Support input such as web pages, podcasts, meetings, and local audio and video files, and Prompt and output are in continuous iteration |
+| Video summary | [BibiGPT](https://github.com/JimmyLv/BibiGPT) | 2.9k | BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表) | YouTube |
 | Video Chat | [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) | 906 | [CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS. | 1.support miniGPT4、StableLM 和 MOSS |
 | Voice-01 | [AudioGPT🔥](https://github.com/AIGC-Audio/AudioGPT) | 3.6k | AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head | 1.support Sing2.support generate BGM3.Speech |
 | Voice-02 | [speechgpt](https://github.com/hahahumble/speechgpt) | 2.1k | 💬 SpeechGPT is a web application that enables you to converse with ChatGPT. | 1. Adapt to mobile 2. Support more than 100 languages 3. Voice sparring 4. Integrate Azure voice services |
@@ -210,7 +207,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| AI chart |  [chart-gpt](https://github.com/whoiskatrin/chart-gpt) | 1.4k | AI tool to build charts based on text input |  |
+| AI chart | [chart-gpt](https://github.com/whoiskatrin/chart-gpt) | 1.4k | AI tool to build charts based on text input |  |
 | AI-generated visualization | [SolidUI](https://github.com/CloudOrc/SolidUI.git) | 139 | AI-generated visualization prototyping and editing platform, support 2D, 3D models, combined with LLM(Large Language Model) for quick editing. |  |
 
 
@@ -221,7 +218,7 @@ Curated collection of open source projects
 
 | name | github address | star | introduction | function |
 | --- | --- | --- | --- | --- |
-| Penetration testing tools |  [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | A GPT-empowered penetration testing tool |  |
+| Penetration testing tools | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 845 | A GPT-empowered penetration testing tool |  |
 
 
 #### GPT-Tool-General
@@ -279,7 +276,7 @@ Curated collection of open source projects
 | Translation-Plugin-02 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 5.8k | 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension  | 1. Bilingual display, Chinese and English comparison. 2. Customized optimization for common mainstream websites, such as Twitter, Reddit, Discord, Gmail, Telegram, Youtube, Hacker News, etc. 3. Support PDF files, EPUB e-book bilingual translation, production and export. 4. Support mobile |
 | Download-Plugin | [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) | 1.2k | A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link | 1. Download chatgpt official website chat history PNG |
 | ChatGPT-Enhance-Plugin-01 | [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) | 4.6k | WebChatGPT: A browser extension that augments your ChatGPT prompts with web results. | 1. This browser extension adds web access to Chat GPT. Get more relevant and up-to-date answers from chatbots! |
-| ChatGPT-Enhance-Plugin-02 | [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 501 | A browser extension to add the missing features like Folders, Search, and Community Prompts to ChatGPT | 1.Folders and reordering for your chats2.Search and Highlight |
+| ChatGPT-Enhance-Plugin-02 | [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 501 | ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features | 1.Folders and reordering for your chats2.Search and Highlight |
 | Voice-Plugin-01 | [talk-to-chatgpt](https://github.com/C-Nedelcu/talk-to-chatgpt) | 977 | Talk to ChatGPT AI using your voice and listen to its answers through a voice | 1. Voice communication with Chat GPT! 2. Support multiple languages |
 | Voice-Plugin-02 | [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt) | 152 | A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant | 1.Chassistant GPT supports more than 60 languages and dialects. Select your native language and custom trigger phrase (configurable in the tab) |
 | Share-Plugin | [sharegpt](https://github.com/domeccleston/sharegpt) | 1.1k | Easily share permanent links to ChatGPT conversations with your friends | 1. One-click share of your own Chat GPT conversation to https:sharegpt .com |
