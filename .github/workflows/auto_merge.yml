@@ -23,7 +23,8 @@ jobs:
 
     - name: Install Requirements
       run: |
-        pip install -r requirements.txt --break-system-packages
+        pip install -r requirements.txt --break-system-packages || true
+        pip install -r requirements.txt || true
     
     - name: Auto Update Star
       run: |
