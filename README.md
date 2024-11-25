@@ -76,7 +76,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT-web加强版-11 | [multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt) | 184 | 为您的ChatGPT提供图像、视频和音频输入 | 1.将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。 |
 | ChatGPT-文心一言开源版 | [visual-openllm](https://github.com/visual-openllm/visual-openllm) | 1.2k | 文心一言的开源版，基于 ChatGLM + Visual ChatGPT + Stable Diffusion | 1.画图+聊天 |
 | ChatGPT-命令行版-01 | [shell\_gpt](https://github.com/TheR1D/shell_gpt) | 9.7k | 在Shell中使用ChatGPT | 1.支持api调用2.支持上下文 |
-| ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 4.4k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
+| ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 4.5k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
 | ChatGPT-命令行版-03 | [pandora](https://github.com/pengzhile/pandora) | 1.2k | 潘多拉，一个不只是命令行的ChatGPT | 多模式：网页/命令行/API，私有化部署 |
 | ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 663 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
 | ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 19.3k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
@@ -224,7 +224,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 6.4k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
+| 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 7.3k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
 
 
 #### GPT工具-通用
@@ -234,7 +234,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 调教场景机器人-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 563 | 创建各种场景的对话机器人 | 1.写作助理2.代码解释器3.日报生成器等 |
+| 调教场景机器人-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 566 | 创建各种场景的对话机器人 | 1.写作助理2.代码解释器3.日报生成器等 |
 | 调教场景机器人-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.9k | 在几秒钟内创建自己的ChatGPT应用程序 | 1.创建各种场景的对话机器人，比如小红书、日报等 |
 | 通用-01 | [Portal](https://github.com/lxfater/Portal) | 1.7k | 通过键盘快捷键将任何选定的文本发送到ChatGPT进行处理，然后将结果返回到用户的剪贴板或光标位置(实现打字机效果)，可以在任意软件上操作ChatGPT | 1.任意软件划词翻译2.自定义提示语模板3.对话管理 && 对话图生成 |
 
@@ -246,12 +246,12 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 房间设计 | [roomGPT](https://github.com/Nutlope/roomGPT) | 9.5k | 上传一张你房间的照片，用人工智能生成你的梦想房间。 | 你只需要给你的房间拍一张照，或是房间的 3D 效果图，并将其上传，即可用 AI 生成对应的梦幻房间效果图。（严格来说属于绘画领域的） |
-| 结构知识 | [GraphGPT](https://github.com/varunshenoy/GraphGPT) | 4.2k | 自然语言 → 结构知识 | 1.GraphGPT将非结构化的自然语言转换为知识图。传入您最喜欢的电影概要、维基百科页面上令人困惑的段落或视频文本，以生成实体及其关系的可视化图表。 |
-| 面试提示 | [cheetah](https://github.com/leetcode-mafia/cheetah) | 3.8k | 使用GPT和Whisper辅助远程面试 |  |
+| 房间设计 | [roomGPT](https://github.com/Nutlope/roomGPT) | 10.1k | 上传一张你房间的照片，用人工智能生成你的梦想房间。 | 你只需要给你的房间拍一张照，或是房间的 3D 效果图，并将其上传，即可用 AI 生成对应的梦幻房间效果图。（严格来说属于绘画领域的） |
+| 结构知识 | [GraphGPT](https://github.com/varunshenoy/GraphGPT) | 4.3k | 自然语言 → 结构知识 | 1.GraphGPT将非结构化的自然语言转换为知识图。传入您最喜欢的电影概要、维基百科页面上令人困惑的段落或视频文本，以生成实体及其关系的可视化图表。 |
+| 面试提示 | [cheetah](https://github.com/leetcode-mafia/cheetah) | 4.1k | 使用GPT和Whisper辅助远程面试 |  |
 | 讲故事 | [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT) | 1.4k | 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型 |  |
-| AR体验 | [ChatARKit](https://github.com/trzy/ChatARKit) | 413 | 使用ChatGPT以自然语言创建AR体验 | 1.基于Sketchfab-3D模型网站 |
-| Apple健康 | [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | 1.6k | 使用自然语言💬🩺查询Apple Health数据 | 1.与 Apple Health 应用程序集成以确保无缝地使用第一方数据2.开箱即用支持查询睡眠、步数、活跃能量、运动分钟数、心率和体重。 |
+| AR体验 | [ChatARKit](https://github.com/trzy/ChatARKit) | 426 | 使用ChatGPT以自然语言创建AR体验 | 1.基于Sketchfab-3D模型网站 |
+| Apple健康 | [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) | 1.7k | 使用自然语言💬🩺查询Apple Health数据 | 1.与 Apple Health 应用程序集成以确保无缝地使用第一方数据2.开箱即用支持查询睡眠、步数、活跃能量、运动分钟数、心率和体重。 |
 
 
 ### GPT插件
@@ -264,7 +264,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| ChatGPT检索插件 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 20.9k | ChatGPT 检索插件让您可以通过使用日常语言提问来轻松搜索和查找个人或工作文档。 | 可以对个人或组织文档进行语义搜索和检索。它允许用户通过用自然语言提问或表达需求，从他们的数据源（如文件、笔记或电子邮件）中获取最相关的文档片段。企业可以使用此插件通过 ChatGPT 向员工提供内部文档。 |
+| ChatGPT检索插件 | [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) | 21.1k | ChatGPT 检索插件让您可以通过使用日常语言提问来轻松搜索和查找个人或工作文档。 | 可以对个人或组织文档进行语义搜索和检索。它允许用户通过用自然语言提问或表达需求，从他们的数据源（如文件、笔记或电子邮件）中获取最相关的文档片段。企业可以使用此插件通过 ChatGPT 向员工提供内部文档。 |
 
 
 #### GPT插件-浏览器
@@ -274,13 +274,13 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 通用插件-01 | [chatGPTBox](https://github.com/josStorer/chatGPTBox) | 9.6k | 将ChatGPT深度集成到您的浏览器中 | 1.在任何页面随时呼出聊天对话框2.支持手机等移动设备3.通过右键菜单总结任意页面4.框选工具与右键菜单,执行各种你的需求,如翻译,总结,润色,情感分析,段落划分,代码解释,问询5.支持reddit, quora, youtube, github, gitlab, stackoverflow, zhihu, bilibili等网站 |
-| 通用插件-02 | [browser-extension](https://github.com/TaxyAI/browser-extension) | 780 | 使用GPT-4自动化你的浏览器 | 1. 支持github、Netflix、OpenAI、calendar 等网站自动化操作 |
+| 通用插件-01 | [chatGPTBox](https://github.com/josStorer/chatGPTBox) | 10.0k | 将ChatGPT深度集成到您的浏览器中 | 1.在任何页面随时呼出聊天对话框2.支持手机等移动设备3.通过右键菜单总结任意页面4.框选工具与右键菜单,执行各种你的需求,如翻译,总结,润色,情感分析,段落划分,代码解释,问询5.支持reddit, quora, youtube, github, gitlab, stackoverflow, zhihu, bilibili等网站 |
+| 通用插件-02 | [browser-extension](https://github.com/TaxyAI/browser-extension) | 1.0k | 使用GPT-4自动化你的浏览器 | 1. 支持github、Netflix、OpenAI、calendar 等网站自动化操作 |
 | 搜索插件 | [chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) | 13.3k | 在Google搜索结果旁边显示ChatGPT响应 | 1. 右侧显示ChatGPT搜索内容2.自定义触发模式3.支持切换语言 |
-| 文本框插件 | [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | 2.8k | 将ChatGPT集成到互联网上的每个文本框中! | 1.在文本框中右键Ask ChatGPT使用2.用它来写推特，修改电子邮件，修复代码错误，或其他任何你需要的东西 |
-| 文本框插件-推特版 | [tweetGPT](https://github.com/yaroslav-n/tweetGPT) | 651 | ChatGPT浏览器插件-推特网页 | 1.在推特网页版中生成推文和回复 |
+| 文本框插件 | [chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension) | 2.9k | 将ChatGPT集成到互联网上的每个文本框中! | 1.在文本框中右键Ask ChatGPT使用2.用它来写推特，修改电子邮件，修复代码错误，或其他任何你需要的东西 |
+| 文本框插件-推特版 | [tweetGPT](https://github.com/yaroslav-n/tweetGPT) | 670 | ChatGPT浏览器插件-推特网页 | 1.在推特网页版中生成推文和回复 |
 | 翻译插件-01 | [openai-translator](https://github.com/yetone/openai-translator) | 23.9k | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。 | 1.划词翻译 |
-| 翻译插件-02 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 14.2k | 沉浸式双语网页翻译扩展。 | 1.双语显示，中英文对照。2.针对常见主流网站进行定制优化，如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。3.支持 PDF 文件，EPUB 电子书双语翻译，制作与导出。4.支持移动端 |
+| 翻译插件-02 | [immersive-translate](https://github.com/immersive-translate/immersive-translate) | 14.3k | 沉浸式双语网页翻译扩展。 | 1.双语显示，中英文对照。2.针对常见主流网站进行定制优化，如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。3.支持 PDF 文件，EPUB 电子书双语翻译，制作与导出。4.支持移动端 |
 | 下载插件 | [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) | 1.5k | 一个Chrome扩展下载你的聊天gpt历史PNG, PDF或可分享的链接。 | 1.下载chatgpt官网聊天历史PNG |
 | ChatGPT增强插件-01 | [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) | 6.5k | 一个浏览器扩展，增强您的ChatGPT提示与网络结果。 | 1.这个浏览器扩展为ChatGPT添加了web访问功能。从聊天机器人获得更多相关和最新的答案! |
 | ChatGPT增强插件-02 | [superpower-chatgpt](https://github.com/saeedezzati/superpower-chatgpt) | 1.5k | 一个浏览器扩展，添加缺少的功能，如文件夹，搜索和社区提示ChatGPT | 1.支持文件夹和排序2.搜索高亮 |
@@ -291,7 +291,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 总结插件-01 | [summarize.site](https://github.com/clmnin/summarize.site) | 736 | 使用OpenAI ChatGPT总结网页 |  |
 | 总结插件-02 | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | 1.8k | 它可以在Google搜索和YouTube旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。 |  |
 | 总结插件-03 | [WebPilot](https://github.com/webpilot-ai/Webpilot) | 1.8k | Webpilot是一个免费、开源的“网络副驾驶”，可以让您与网页进行自由形式的对话，或与其他用户进行自动争论。 | 1. 总结网页内容。 2. 可以自定义指令，对所选网页内容进行任何提问。 |
-| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 805 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
+| 总结插件-YouTube视频版 | [YouTube\_Summary\_with\_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) | 806 | 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 | 1.一键总结YouTube视频内容 |
 
 
 #### GPT插件-第三方应用
@@ -324,14 +324,14 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | 70.7k | 一个聊天机器人接受了大量干净的助手数据的训练，包括代码、故事和对话 | 1. 本地训练，调教 |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | 70.8k | 一个聊天机器人接受了大量干净的助手数据的训练，包括代码、故事和对话 | 1. 本地训练，调教 |
 | [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) | 4.4k | gpt4all的ui界面 | 1. 使用ui界面本地训练，调教，使用 |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | 37.1k | OpenAssistant是一个基于聊天的助手，可以理解任务，可以与第三方系统交互，并动态检索信息。 | Open Assistant 是一个旨在让每个人都能访问基于聊天的大型语言模型的项目。 |
 | [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 29.6k | 斯坦福的羊驼模型（羊驼） |  |
-| [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed) | 35.5k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
+| [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed) | 35.6k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 40.7k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型 | 1.62 亿参数2.用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存） |
 | [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | 15.7k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型V2版本 | ChatGLM2-6B 在 MMLU（+23%）、CEval（+33%）、GSM8K（+571%） 、BBH（+60%）等数据集上的性能取得了大幅度的提升 |
-| [minGPT](https://github.com/karpathy/minGPT) | 20.2k | karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。 |  |
+| [minGPT](https://github.com/karpathy/minGPT) | 20.3k | karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。 |  |
 | [FastChat](https://github.com/lm-sys/FastChat) | 37.0k | 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。(小羊驼) | 1.斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。 |
 | [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | 25.4k | 增强视觉语言理解（识图）与先进的大型语言模型 | 1.识别图片，并且进行对话 |
 | [alpaca-lora](https://github.com/tloen/alpaca-lora) | 18.7k | 轻量级 ChatGPT 的开源实现，小羊驼-lora | 1. 使用了LoRA轻量级模型2.只需要训练很小一部分参数就可以获得媲美 Standford Alpaca 模型的效果3.要RTX 4090才能玩 |
