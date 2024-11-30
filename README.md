@@ -56,8 +56,8 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| ChatGPT桌面版-01 | [lencx-ChatGPT🔥](https://github.com/lencx/ChatGPT) | 53.1k | ChatGPT桌面版(Windows、macOS和Linux) | 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式 |
-| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 23.1k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
+| ChatGPT桌面版-01 | [lencx-ChatGPT🔥](https://github.com/lencx/ChatGPT) | 53.0k | ChatGPT桌面版(Windows、macOS和Linux) | 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式 |
+| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 23.2k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
 | ChatGPT桌面版-03 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.2k | ChatGPT加强版桌面应用 | 1.支持网站 + Windows + MacOS + Linux2.绕过 ChatGPT 区域限制的代理3.过滤聊天和文件夹 |
 | ChatGPT桌面版-04 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | 2.0k | 非官方的ChatGPT桌面应用程序(Windows、macOS和Linux) | 1.支持API模式，免登录2.支持在Windows和Mac的菜单栏显示 |
 | ChatGPT桌面版-05 | [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) | 1.7k | ChatGPT 跨平台客户端(Windows、macOS和Linux) | 1.支持设置对话角色2.支持文生图 |
@@ -89,7 +89,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| Node-ChatGPT客户端 | [chatgpt-node](https://github.com/transitive-bullshit/chatgpt-api) | 16.5k | 官方ChatGPT API的Node.js客户端。 |  |
+| Node-ChatGPT客户端 | [chatgpt-node](https://github.com/transitive-bullshit/chatgpt-api) | 16.6k | 官方ChatGPT API的Node.js客户端。 |  |
 | Python-ChatGPT客户端 | [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) | 4.2k | 非官方ChatGPT API的Python客户端。 | 1.具有自动令牌再生，会话跟踪，代理支持等 |
 | Python-Shell-ChatGPT客户端 | [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) | 3.7k | 在python或者命令行中使用ChatGPT | 1.支持ChatGPT4 |
 | Java-ChatGPT客户端-01 | [chatgpt-java](https://github.com/PlexPt/chatgpt-java) | 3.6k | ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。 | 1.支持上下文、阻塞式对话、代理等 |
