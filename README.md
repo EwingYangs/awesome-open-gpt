@@ -73,13 +73,13 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT-web加强版-08 | [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) | 2.0k | Ex-ChatGPT 使得 ChatGPT 能够调用外部 API，例如 WolframAlpha、Google 和 WikiMedia，以提供更准确和及时的答案 | 1.语音对话功能，使用微软 Azure API，优化响应速度 ( 1-2 秒左右 ) ，包含语音识别和文字转语音，支持多种音色和语言，自定义声音。2.docker 和 proxy 支持。3.对 Google 搜索结果进行数据清洗, 减少token占用。4.允许 ChatGPT 调用外部 API 接口 ( Google,WolframAlpha,WikiMedia ) |
 | ChatGPT-web加强版-09 | [chatgpt-php-web](https://github.com/dirk1983/chatgpt) | 3.1k | PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Web | 1.增加了一些预设话术2.对手机浏览器进行了适配优化 |
 | ChatGPT-web加强版-10 | [yakGPT](https://github.com/yakGPT/yakGPT) | 1.6k | 一个简单的，本地运行的ChatGPT UI，使您的文本生成更快，聊天更吸引人! | 1.支持api调用2.支持语音输入 |
-| ChatGPT-web加强版-11 | [multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt) | 184 | 为您的ChatGPT提供图像、视频和音频输入 | 1.将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。 |
+| ChatGPT-web加强版-11 | [multimedia-gpt](https://github.com/fengyuli-dev/multimedia-gpt) | 185 | 为您的ChatGPT提供图像、视频和音频输入 | 1.将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。 |
 | ChatGPT-文心一言开源版 | [visual-openllm](https://github.com/visual-openllm/visual-openllm) | 1.2k | 文心一言的开源版，基于 ChatGLM + Visual ChatGPT + Stable Diffusion | 1.画图+聊天 |
 | ChatGPT-命令行版-01 | [shell\_gpt](https://github.com/TheR1D/shell_gpt) | 9.9k | 在Shell中使用ChatGPT | 1.支持api调用2.支持上下文 |
 | ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 4.7k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
 | ChatGPT-命令行版-03 | [pandora](https://github.com/pengzhile/pandora) | 1.2k | 潘多拉，一个不只是命令行的ChatGPT | 多模式：网页/命令行/API，私有化部署 |
 | ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 663 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
-| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 19.8k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
+| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 19.9k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
 
 
 ### GPT编程语言客户端
@@ -96,7 +96,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | Java-ChatGPT客户端-02 | [chatgpt-java](https://github.com/Grt1228/chatgpt-java) | 3.4k | ChatGPT的Java客户端，ChatGPT Java SDK，流式输出。 | 1.支持OpenAI官方所有接口2.支持流式输出 |
 | Java-OpenAi客户端 | [openai-java](https://github.com/TheoKanning/openai-java) | 4.8k | OpenAI的java客户端。 | 1.支持GPT-4 |
 | Node-ChatGPT-Bing客户端 | [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) | 4.2k | ChatGPT和Bing AI的node客户端 | 1.支持BingAIClient2.支持ChatGPTBrowserClient |
-| Go-OpenAi客户端 | [go-openai](https://github.com/sashabaranov/go-openai) | 9.3k | OpenAI的go客户端。 | 1.支持GPT-4 |
+| Go-OpenAi客户端 | [go-openai](https://github.com/sashabaranov/go-openai) | 9.4k | OpenAI的go客户端。 | 1.支持GPT-4 |
 | PHP-OpenAi客户端 | [openai-php](https://github.com/orhanerday/open-ai) | 2.3k | OpenAI的PHP SDK |  |
 | Android-ChatGPT客户端 | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 3.7k | 安卓的ChatGPT-SDK |  |
 | .Net-ChatGPT客户端 | [openai-dotnet](https://github.com/betalgo/openai) | 2.9k | OpenAI ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI和DALL-E的dotnet SDK |  |
