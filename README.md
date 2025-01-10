@@ -114,7 +114,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | GPT自动化-01-图形界面 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 1.5k | AutoGPT的图形用户界面 |  |
 | GPT自动化-01-图形界面 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 184 | 一键免费部署你的私人AutoGPT 网页应用 | 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文 |
 | GPT自动化-01-中文版 | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 2.4k | 自动化的GPT-中文版 |  |
-| GPT自动化-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 32.3k | 在浏览器中组装、配置和部署自动AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
+| GPT自动化-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 32.4k | 在浏览器中组装、配置和部署自动AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 20.7k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.8k | 基于GPT3.5/4的最小通用自主代理。 | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。 |
 | GPT自动化 05 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 1.7k | DemoGPT 让您只需使用句子即可创建快速演示。 它将ToT方法应用于Langchain文档树。 | 只需说出一句话，让 DemoGPT 准备整个管道并从中创建您的自定义应用程序。 然后，只需使用您的提示，您就可以创建您梦想的应用程序 |
@@ -134,8 +134,8 @@ awesome-open-gpt/gpt相关开源项目合集
 | QQ和电报ChatGPT机器人 | [OpenaiBot](https://github.com/LlmKira/Openaibot) | 2.0k | OpenaiBot是一款优秀的基于 GPT 系列模型(主要为 Openai ) 接口的ChatGPT聊天机器人。 | 1.支持跨多平台使用、有通用接口，目前能对接到QQ和Telegram聊天平台使用、进行私聊和群聊、主动搜索回复、图像Blip理解支持、语音识别、贴纸支持、聊天黑白名单限制等多种功能 |
 | Discord-ChatGPT机器人 | [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) | 2.7k | 将ChatGPT集成到您自己的discord机器人中 | 1.切换GPT接口模式，支持4.0 2.支持Dalle2生图 |
 | 电报ChatGPT机器人-01 | [ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) | 3.6k | 将ChatGPT集成到您自己的Telegram机器人中 | 1.使用Cloudflare Workers，单文件，直接复制粘贴一把梭，无需任何依赖，无需配置本地开发环境，不用域名，免服务器 |
-| 电报ChatGPT机器人-02 | [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) | 3.1k | Telegram机器人与OpenAI的官方ChatGPT api集成 | 1.支持markdown输出2.Docker和Proxy支持3.支持DALL·E4.支持使用Whisper转录音频和视频消息 |
-| QQ-ChatGPT机器人-01 | [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | 13.5k | 一款使用 OpenAI 的 ChatGPT 进行聊天的 QQ 机器人！ | 1.文字转图片发送2.群聊回复引用3.关键词触发回复4.正向代理5.多账号支持6.支持 Mirai、 go-cqhttp、 Telegram Bot7.支持 ChatGPT Plus8.支持 ChatGPT API9.支持 Bing 聊天10.支持 Google bard11.支持 poe.com 网页版12.支持 文心一言 网页版13.支持 ChatGLM-6B 本地版 |
+| 电报ChatGPT机器人-02 | [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) | 3.2k | Telegram机器人与OpenAI的官方ChatGPT api集成 | 1.支持markdown输出2.Docker和Proxy支持3.支持DALL·E4.支持使用Whisper转录音频和视频消息 |
+| QQ-ChatGPT机器人-01 | [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | 13.6k | 一款使用 OpenAI 的 ChatGPT 进行聊天的 QQ 机器人！ | 1.文字转图片发送2.群聊回复引用3.关键词触发回复4.正向代理5.多账号支持6.支持 Mirai、 go-cqhttp、 Telegram Bot7.支持 ChatGPT Plus8.支持 ChatGPT API9.支持 Bing 聊天10.支持 Google bard11.支持 poe.com 网页版12.支持 文心一言 网页版13.支持 ChatGLM-6B 本地版 |
 | QQ-ChatGPT机器人-02 | [QChatGPT](https://github.com/RockChinQ/QChatGPT) | 4.7k | 高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT NewBing QQ 机器人！ | 1.已支持 GPT-4、New Bing2.支持对话、绘图等模型，可玩性更高3.私聊、群聊黑名单机制 |
 | WhatsApp-ChatGPT机器人 | [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | 3.1k | 在whatsapp上迅速接入 ChatGPT | 1.聊天机器人 |
 | 飞书ChatGPT机器人-01 | [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) | 5.5k | 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 | 1.🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀 |
@@ -157,7 +157,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
-| 论文总结 | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 18.6k | 利用chatgpt进行论文总结+润色+审稿+审稿回复 | 1.论文总结+润色+审稿+审稿回复 |
+| 论文总结 | [ChatPaper](https://github.com/kaixindelele/ChatPaper) | 18.7k | 利用chatgpt进行论文总结+润色+审稿+审稿回复 | 1.论文总结+润色+审稿+审稿回复 |
 | 论文交谈 | [researchgpt](https://github.com/mukulpatnaik/researchgpt) | 3.6k | 一个开源的LLM研究助手，允许您与研究论文进行对话 | 上传论文，和论文对话。 |
 | PDF交谈-01 | [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) | 15.0k | PDF聊天机器人 | 1.使用新的GPT-4 api为多个大型PDF文件构建chatGPT聊天机器人。 |
 | PDF交谈-02 | [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) | 7.0k | PDF GPT 允许您使用 GPT 功能与 PDF 文件的内容聊天。在聊天机器人中转换您的 pdf 文件的唯一开源解决方案！ | 1.基于CPT和上传的PDF文件交谈 |
