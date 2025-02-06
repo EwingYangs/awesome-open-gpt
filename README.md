@@ -57,16 +57,16 @@ awesome-open-gpt/gpt相关开源项目合集
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | ChatGPT桌面版-01 | [lencx-ChatGPT🔥](https://github.com/lencx/ChatGPT) | 53.5k | ChatGPT桌面版(Windows、macOS和Linux) | 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式 |
-| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 27.2k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
+| ChatGPT桌面版-02 | [chatbox](https://github.com/Bin-Huang/chatbox) | 27.5k | 开源的ChatGPT桌面应用，prompt 开发神器 | 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式…… |
 | ChatGPT桌面版-03 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.3k | ChatGPT加强版桌面应用 | 1.支持网站 + Windows + MacOS + Linux2.绕过 ChatGPT 区域限制的代理3.过滤聊天和文件夹 |
 | ChatGPT桌面版-04 | [chat-ai-desktop](https://github.com/sonnylazuardi/chat-ai-desktop) | 2.0k | 非官方的ChatGPT桌面应用程序(Windows、macOS和Linux) | 1.支持API模式，免登录2.支持在Windows和Mac的菜单栏显示 |
 | ChatGPT桌面版-05 | [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop) | 1.7k | ChatGPT 跨平台客户端(Windows、macOS和Linux) | 1.支持设置对话角色2.支持文生图 |
 | NewBing桌面版 | [BingGPT](https://github.com/dice2o/BingGPT) | 9.2k | 新必应人工智能聊天桌面应用程序（Windows、macOS 和 Linux） | 1.无需安装 Microsoft Edge 或浏览器插件即可与新 Bing 聊天2.将完整对话导出为 Markdown、PNG 或 PDF3.自定义外观（主题和字体大小） |
 | ChatGPT-mac菜单版 | [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) | 6.4k | 使ChatGPT生活在你的Mac菜单栏 | 1.在Mac菜单栏显示显示ChatGPT2.使用Cmd+Shift+G在任何地方唤起ChatGPT |
 | ChatGPT-web加强版-01 | [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) | 34.5k | 微软开源的一款工具，可以为 ChatGPT 添加图片能力 | 1.支持文生图2.支持文改图 |
-| ChatGPT-web加强版-02 | [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) | 67.2k | ChatGPT 学术优化 | 1.支持一键润色、一键查找论文语法错误2.一键中英互译 3.可以正确显示代码、解释代码 4.一键可以剖析其他Python/C++项目 5.可以输出支持GPT的markdown表格 |
+| ChatGPT-web加强版-02 | [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) | 67.3k | ChatGPT 学术优化 | 1.支持一键润色、一键查找论文语法错误2.一键中英互译 3.可以正确显示代码、解释代码 4.一键可以剖析其他Python/C++项目 5.可以输出支持GPT的markdown表格 |
 | ChatGPT-web加强版-03 | [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) | 31.8k | 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 | 1.支持下载对话内容2.支持Prompt模版 |
-| ChatGPT-web加强版-04 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 79.3k | 一键拥有你自己的 ChatGPT 网页服务 | 1.在 1 分钟内使用 Vercel 免费一键部署，并且支持容器部署2.海量的内置 prompt 列表，来自中文和英文3.一键导出聊天记录，完整的 Markdown 支持 |
+| ChatGPT-web加强版-04 | [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) | 79.4k | 一键拥有你自己的 ChatGPT 网页服务 | 1.在 1 分钟内使用 Vercel 免费一键部署，并且支持容器部署2.海量的内置 prompt 列表，来自中文和英文3.一键导出聊天记录，完整的 Markdown 支持 |
 | ChatGPT-web加强版-05 | [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | 29.6k | 搭建属于自己的 ChatGPT 网站: ChatBot-UI | 1.支持Prompt模版2.支持搜索聊天内容3.支持GPT-44.支持代码高亮显示5.支持Markdown输出 |
 | ChatGPT-web加强版-06 | [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | 15.4k | 轻快好用的ChatGPT Web图形界面 | 1.实时回复2.无限对话3.保存对话记录4.预设Prompt集5.联网搜索6.根据文件回答 |
 | ChatGPT-web加强版-07 | [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) | 8.3k | 一个惊人的开源web应用程序，具有更好的UI，用于探索OpenAI的ChatGPT API | 1.支持自定义提示词资料库2.支持使用文件夹整理聊天3.支持自定义用户/助理/系统身份4.支持将聊天保存为 Markdown/图片/JSON |
@@ -79,7 +79,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT-命令行版-02 | [aichat](https://github.com/sigoden/aichat) | 5.4k | 终端使用ChatGPT/GPT-3.5/GPT-4 | 1.支持角色预设2.语法突出显示markdown和其他200种语言 |
 | ChatGPT-命令行版-03 | [pandora](https://github.com/pengzhile/pandora) | 1.2k | 潘多拉，一个不只是命令行的ChatGPT | 多模式：网页/命令行/API，私有化部署 |
 | ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 665 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
-| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 21.4k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
+| ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 21.5k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
 
 
 ### GPT编程语言客户端
@@ -112,7 +112,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | GPT自动化-01 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 171.1k | 自动化的GPT | 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。 |
 | GPT自动化-01-插件 | [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) | 3.9k | AutoGPT的插件 | 暂时没内容，仓库来源于AutoGPT作者，值得留意！！! |
 | GPT自动化-01-图形界面 | [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui) | 1.5k | AutoGPT的图形用户界面 |  |
-| GPT自动化-01-图形界面 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 186 | 一键免费部署你的私人AutoGPT 网页应用 | 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文 |
+| GPT自动化-01-图形界面 | [AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) | 187 | 一键免费部署你的私人AutoGPT 网页应用 | 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文 |
 | GPT自动化-01-中文版 | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 2.4k | 自动化的GPT-中文版 |  |
 | GPT自动化-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 32.7k | 在浏览器中组装、配置和部署自动AI代理。 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 20.9k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
@@ -128,7 +128,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
 | 微信ChatGPT机器人-01 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | 13.3k | 在微信上迅速接入 ChatGPT | 1.基于 wechaty 和 Official API 在微信中使用 ChatGPT2.支持多轮对话3.支持命令设置4.支持 Dall·E5.支持 whisper6.支持设置 prompt |
-| 微信ChatGPT机器人-02 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 33.1k | 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现 | 1.支持规则定制化2.多账号3.图片生成4.上下文记忆5.语音识别6.插件化 |
+| 微信ChatGPT机器人-02 | [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | 33.2k | 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现 | 1.支持规则定制化2.多账号3.图片生成4.上下文记忆5.语音识别6.插件化 |
 | 微信ChatGPT机器人-03 | [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | 4.7k | 微信ChatGPT机器人 | 1.支持上下文语境的对话。2.支持重置上下文语境，通过关键词(reset)重置对话上下文语境。3.支持在群聊@你的机器人 🤖，@机器人即可收到回复。4.支持通过关键词唤醒你的机器人，如当在群组中发送“@机器人 hello xxxx”时才会收到回复。 |
 | 微信 ChatGPT机器人-04 | [openai-on-wechat](https://github.com/riba2534/openai-on-wechat) | 192 | 基于 Golang 实现的，OpenAI 微信聊天机器人，部署简单，使用桌面版微信协议，突破微信登录限制 | - **文本对话**： 可以接收私聊/群聊消息，使用 OpenAI 的 gpt-3.5-turbo 生成回复内容，自动回复问题- **触发口令**设置：好友在给你发消息时需要带上指定的前缀才可以触发与 GPT 机器人对话，触发口令可以在配置文件中设置- **连续对话**：支持对 私聊/群聊 开启连续对话功能，可以通过配置文件设置需要记忆多少分钟- **图片生成**：可以根据描述生成图片，并自动回复在当前 私聊/群聊 中 |
 | QQ和电报ChatGPT机器人 | [OpenaiBot](https://github.com/LlmKira/Openaibot) | 2.0k | OpenaiBot是一款优秀的基于 GPT 系列模型(主要为 Openai ) 接口的ChatGPT聊天机器人。 | 1.支持跨多平台使用、有通用接口，目前能对接到QQ和Telegram聊天平台使用、进行私聊和群聊、主动搜索回复、图像Blip理解支持、语音识别、贴纸支持、聊天黑白名单限制等多种功能 |
@@ -324,25 +324,25 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- |
-| [gpt4all](https://github.com/nomic-ai/gpt4all) | 71.6k | 一个聊天机器人接受了大量干净的助手数据的训练，包括代码、故事和对话 | 1. 本地训练，调教 |
-| [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) | 4.4k | gpt4all的ui界面 | 1. 使用ui界面本地训练，调教，使用 |
+| [gpt4all](https://github.com/nomic-ai/gpt4all) | 72.2k | 一个聊天机器人接受了大量干净的助手数据的训练，包括代码、故事和对话 | 1. 本地训练，调教 |
+| [gpt4all-ui](https://github.com/nomic-ai/gpt4all-ui) | 4.5k | gpt4all的ui界面 | 1. 使用ui界面本地训练，调教，使用 |
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | 37.2k | OpenAssistant是一个基于聊天的助手，可以理解任务，可以与第三方系统交互，并动态检索信息。 | Open Assistant 是一个旨在让每个人都能访问基于聊天的大型语言模型的项目。 |
-| [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 29.7k | 斯坦福的羊驼模型（羊驼） |  |
-| [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed) | 36.2k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
+| [stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) | 29.8k | 斯坦福的羊驼模型（羊驼） |  |
+| [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed) | 36.5k | 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。 |  |
 | [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) | 41.0k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型 | 1.62 亿参数2.用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存） |
-| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | 15.7k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型V2版本 | ChatGLM2-6B 在 MMLU（+23%）、CEval（+33%）、GSM8K（+571%） 、BBH（+60%）等数据集上的性能取得了大幅度的提升 |
-| [minGPT](https://github.com/karpathy/minGPT) | 20.8k | karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。 |  |
-| [FastChat](https://github.com/lm-sys/FastChat) | 37.5k | 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。(小羊驼) | 1.斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。 |
+| [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) | 15.8k | 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型V2版本 | ChatGLM2-6B 在 MMLU（+23%）、CEval（+33%）、GSM8K（+571%） 、BBH（+60%）等数据集上的性能取得了大幅度的提升 |
+| [minGPT](https://github.com/karpathy/minGPT) | 21.2k | karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。 |  |
+| [FastChat](https://github.com/lm-sys/FastChat) | 37.7k | 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。(小羊驼) | 1.斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。 |
 | [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) | 25.5k | 增强视觉语言理解（识图）与先进的大型语言模型 | 1.识别图片，并且进行对话 |
-| [alpaca-lora](https://github.com/tloen/alpaca-lora) | 18.7k | 轻量级 ChatGPT 的开源实现，小羊驼-lora | 1. 使用了LoRA轻量级模型2.只需要训练很小一部分参数就可以获得媲美 Standford Alpaca 模型的效果3.要RTX 4090才能玩 |
+| [alpaca-lora](https://github.com/tloen/alpaca-lora) | 18.8k | 轻量级 ChatGPT 的开源实现，小羊驼-lora | 1. 使用了LoRA轻量级模型2.只需要训练很小一部分参数就可以获得媲美 Standford Alpaca 模型的效果3.要RTX 4090才能玩 |
 | [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) | 2.6k | 一个基于React的程序，它使用基于聊天的界面(基于Alpaca Lora)在Mac和Windows上本地执行FreedomGPT LLM(离线和私有) |  |
 | [stableLM](https://github.com/stability-AI/stableLM) | 15.8k | Stable Diffusion的初创公司Stability AI发布并开源该团队训练的大语言模型StableLM | 今日发布的StableLM在更大版本的开源数据集The Pile上进行训练，该数据集包含来自各种来源的信息，包括维基百科（Wikipedia）、问答网站Stack Exchange和生物医学数据库PubMed，该数据集的规模是The Pile的三倍，包含1.5万亿个tokens（字符），其超大规模使得StableLM在会话和编码上具有超高性能，但是它目前只有30-70亿个参数，而GPT-3有1750亿个参数。 |
 | [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) | 9.0k | 前OpenAI团队打造，OpenChatKit提供了一个强大的开源基础，可以为各种应用程序创建专门的和通用的聊天机器人。 | 1.200亿参数的语言模型2.用户只需准备自己的数据集，并使用OpenChatKit的配方来微调模型即可获得高精度的结果。 |
-| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 41.5k | 一个用于运行大型语言模型(如GPT-J 6B, OPT, GALACTICA, LLaMA和Pygmalion)的梯度web UI |  |
+| [text-generation-webui](https://github.com/oobabooga/text-generation-webui) | 42.2k | 一个用于运行大型语言模型(如GPT-J 6B, OPT, GALACTICA, LLaMA和Pygmalion)的梯度web UI |  |
 | [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) | 7.7k | 在PaLM架构之上实现RLHF(带人类反馈的强化学习)。基本上是ChatGPT，但有PaLM。 |  |
-| [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | 9.5k | ChatRWKV是对标ChatGPT的开源项目，希望做"大规模语言模型的Stable Diffusion" |  |
+| [ChatRWKV](https://github.com/BlinkDL/ChatRWKV) | 9.4k | ChatRWKV是对标ChatGPT的开源项目，希望做"大规模语言模型的Stable Diffusion" |  |
 | [dolly](https://github.com/databrickslabs/dolly) | 10.8k | Databricks的Dolly是一个在Databricks机器学习平台上训练的大型语言模型 | 1.Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型进行微调 |
-| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 18.6k | 中文LLaMA&Alpaca大语言模型+本地部署 | 1.🚀 开源了经过中文文本数据预训练的中文LLaMA大模型🚀 开源了进一步经过指令精调的中文Alpaca大模型🚀 快速地使用笔记本电脑（个人PC）本地部署和体验量化版大模型 |
+| [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) | 18.7k | 中文LLaMA&Alpaca大语言模型+本地部署 | 1.🚀 开源了经过中文文本数据预训练的中文LLaMA大模型🚀 开源了进一步经过指令精调的中文Alpaca大模型🚀 快速地使用笔记本电脑（个人PC）本地部署和体验量化版大模型 |
 | [MOSS](https://github.com/OpenLMLab/MOSS) | 12.0k | 国内首个类 ChatGPT 模型：复旦大学 MOSS，RTX 3090 显卡可运行 |  |
 | [BELLE](https://github.com/LianjiaTech/BELLE) | 8.0k | 开源中文对话大模型 | 1.现阶段本项目基于一些开源预训练大语言模型（如BLOOM、LAMMA等），针对中文做了优化，模型调优仅使用由ChatGPT生产的数据（不包含任何其他数据）。 |
 | [trlx](https://github.com/carperai/trlx) | 4.6k | 一个通过人类反馈强化学习(RLHF)对语言模型进行分布式训练的repo | 1.支持高达20b参数的在线RL和更大模型的离线RL。基本上就是你用来微调GPT到ChatGPT的项目 |
@@ -373,9 +373,9 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- |
-| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 119.7k | ChatGPT指令合集，以更好地使用ChatGPT | 各种场景对话调教 |
-| [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 54.0k | ChatGPT指令合集（中文版），以更好地使用ChatGPT | 各种场景对话调教（中文版） |
-| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 52.9k | 指令工程师 | 教你如何调教、训练AI |
+| [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 119.8k | ChatGPT指令合集，以更好地使用ChatGPT | 各种场景对话调教 |
+| [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | 54.1k | ChatGPT指令合集（中文版），以更好地使用ChatGPT | 各种场景对话调教（中文版） |
+| [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 53.0k | 指令工程师 | 教你如何调教、训练AI |
 | [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) | 6.1k | 让生产力加倍的 ChatGPT 快捷指令 | 按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。 |
 | [ChatGPT\_DAN](https://github.com/0xk1h0/ChatGPT_DAN) | 6.7k | ChatGPT"越狱"指令 |  |
 | [Awesome-ChatGPT-prompts-ZH\_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN) | 2.9k | 如何将ChatGPT调教成一只猫娘 |  |
@@ -392,7 +392,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | --- | --- | --- | --- |
 | [awesome-gpts](https://github.com/taranjeet/awesome-gpts) | 1.3k | GPTs | 收集社区创建的所有 GPTs |
 | [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) | 3.2k | GPTs | 精选的超棒 GPT 👍 列表 |
-| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | 20.6k | 抓取网站以生成知识文件，以便从 URL 创建自己的自定义 GPT | 可以抓取各种网页上的技术文档，上传到gpts |
+| [gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | 20.7k | 抓取网站以生成知识文件，以便从 URL 创建自己的自定义 GPT | 可以抓取各种网页上的技术文档，上传到gpts |
 
 
 ### 其他（平台、逆向工程）
@@ -404,7 +404,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | --- | --- | --- | --- |
 | [Reverse ChatGPT](https://github.com/acheong08/ChatGPT) | 28.1k | ChatGPT逆向工程 | 提取ChatGPT的API |
 | [Reverse EdgeGPT](https://github.com/acheong08/EdgeGPT) | 8.0k | NewBing逆向工程 | 提取NewBing的API |
-| [langchain](https://github.com/hwchase17/langchain) | 99.5k | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。 |
+| [langchain](https://github.com/hwchase17/langchain) | 99.6k | 开发自己的 ChatGPT 应用：langchain | 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。 |
 | [Embedchain](https://github.com/embedchain/embedchain) | 24.4k | 用于在数据集上创建类似 ChatGPT 的机器人的框架 | 只需几行代码即可在任何数据集上轻松创建 LLM 支持的机器人。 |
 | [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 14.8k | 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页 | 解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found. |
 | [GPTCache](https://github.com/zilliztech/GPTCache) | 7.4k | 使用向量数据库技术为各种 LLM 应用提供一层语义缓存，能够缓存 LLM 响应，从而显著减少检索数据所需的时间、降低 API 调用开销、提升应用可扩展性 | 1.plugin类型设计，多个模块支持自定义，如embedding、存储、相似评估、请求前后处理 2.适配openai多个接口，如ChatComplete/Complete等，同时也集成至LangChain 3.请求中多个参数，可满足多个不同场景，如缓存开启关闭、是否进行相似搜索、多级cache等 |
