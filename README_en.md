@@ -111,7 +111,7 @@ Curated collection of open source projects
 | GPT Auto-01-Chinese version | [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) | 307 | Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 |  |
 | GPT Auto-02 | [AgentGPT](https://github.com/reworkd/AgentGPT) | 15.6k | 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser. | 1. Name your own custom AI and let it start with whatever goal you can think of. It will try to do the task by thinking about it |
 | GPT Auto-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | Just give a goal and task iteration to let the AI automate your task |  |
-| GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | MiniAGI is a simple general-purpose autonomous agent based on the OpenAI API. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
+| GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | MiniAGI is a simple general-purpose AI agent based on the OpenAI API. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
 | GPT Auto-05 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 56 | 🤖 Everything you need to create an LLM Agent—tools, prompts, frameworks, and models—all in one place. | Just give a prompt and then let DemoGPT prepare the whole pipeline and create your custom application according to this pipeline. Then, just with your prompt, you can create your dream application |
 
 
