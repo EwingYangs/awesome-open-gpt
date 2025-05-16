@@ -30,9 +30,9 @@ jobs:
       run: |
         python auto_update_star.py || true
 
-    - name: Auto Translate
-      run: |
-        python auto_translator.py || true
+#    - name: Auto Translate
+#      run: |
+#        python auto_translator.py || true
 
     - name: Commit and Push Changes
       run: |
