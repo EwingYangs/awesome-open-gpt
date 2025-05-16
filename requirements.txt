@@ -3,5 +3,7 @@ html2text==2020.1.16
 Markdown==3.4.1
 markdownify==0.11.6
 python-dotenv==1.0.0
-requests==2.26.0
 requests_cache==1.0.1
+requests==2.31.0
+urllib3>=1.21.1,<1.27
+charset_normalizer>=2,<3
