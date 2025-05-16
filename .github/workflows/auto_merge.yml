@@ -42,4 +42,4 @@ jobs:
         git commit -m "automatically commit and push" || true
         git push origin HEAD:main || true
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用GitHub提供的token进行身份验证
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # 使用GitHub提供的token进行身份验证
