@@ -29,6 +29,9 @@ jobs:
     - name: Auto Update Star
       run: |
         python auto_update_star.py || true
+      env:
+        GITHUB_ACCESS_KEY: ${{ secrets.GH_TOKEN }}  # 使用GitHub提供的token进行身份验证
+
 
 #    - name: Auto Translate
 #      run: |
@@ -38,8 +41,7 @@ jobs:
       run: |
         git config user.name "Action Sync Bot"
         git config user.email "jiaying.yang@qq.com"
+        git remote set-url origin https://x-access-token:${{ secrets.PUST_TOKEN }}@github.com/EwingYangs/awesome-open-gpt.git
         git add README.md README_en.md
         git commit -m "automatically commit and push" || true
         git push origin HEAD:main || true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # 使用GitHub提供的token进行身份验证
