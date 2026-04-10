@@ -72,6 +72,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | ChatGPT-命令行版+语音 | [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) | 664 | 在命令行用你的声音与ChatGPT对话，并让它回应 | 1.在cli命令行和ChatGPT语音交谈 |
 | ChatGPT克隆 | [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) | 25.6k | 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 | 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件 |
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=EwingYangs_awesome-open-gpt) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### GPT编程语言客户端
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
