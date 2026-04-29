@@ -101,6 +101,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | GPT自动化-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 21.5k | 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 | 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务 |
 | GPT自动化-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.9k | 基于GPT3.5/4的最小通用自主代理。 | 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。 |
 | GPT自动化 05 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 1.8k | DemoGPT 让您只需使用句子即可创建快速演示。 它将ToT方法应用于Langchain文档树。 | 只需说出一句话，让 DemoGPT 准备整个管道并从中创建您的自定义应用程序。 然后，只需使用您的提示，您就可以创建您梦想的应用程序 |
+| GPT自动化 06 | [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) | 120 | 面向 CLI 编码代理的多代理编排器。在并行的 git worktrees 中协调 37 个 CLI 编码代理（Claude Code、Codex、Gemini CLI、Cursor、Aider、OpenHands、Goose 等）。 | 1. 确定性 Python 调度器——协调过程不消耗任何 LLM token。2. 一等公民的 MCP 服务器，基于文件的状态管理，质量门（测试/lint/类型），成本跟踪与预算。3. 支持 `depends_on` 阶段依赖的计划文件。Apache 2.0，Python 3.12+。 |
 
 ### 第三方机器人接入
 

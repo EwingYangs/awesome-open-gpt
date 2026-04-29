@@ -114,6 +114,7 @@
 | GPT Auto-03 | [babyagi](https://github.com/yoheinakajima/babyagi) | 10.6k | Just give a goal and task iteration to let the AI automate your task |  |
 | GPT Auto-04 | [MiniAGI](https://github.com/muellerberndt/mini-agi) | 2.1k | A minimal generic autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza. | 1. Can analyze stock prices, perform cybersecurity tests, create artistic pictures, and order pizza. |
 | GPT Auto-05 | [DemoGPT](https://github.com/melih-unsal/DemoGPT) | 56 | DemoGPT enables you to create quick demos by just using prompt. It applies ToT approach on the Langchain documentation tree. | Just give a prompt and then let DemoGPT prepare the whole pipeline and create your custom application according to this pipeline. Then, just with your prompt, you can create your dream application|
+| GPT Auto-06 | [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) | 120 | Multi-agent orchestrator for CLI coding agents. Coordinates 37 CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider, OpenHands, Goose, and more) running in parallel git worktrees. | 1. Deterministic Python scheduler — zero LLM tokens spent on coordination. 2. First-class MCP server, file-based state, quality gates (tests/lint/types), cost tracking with budgets. 3. Plan files with `depends_on` stage dependencies. Apache 2.0, Python 3.12+. |
 
 
 ### Third Platform Robot
