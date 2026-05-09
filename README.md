@@ -338,6 +338,7 @@ awesome-open-gpt/gpt相关开源项目合集
 * [ChatGPT 中文指南](https://github.com/yzfly/awesome-chatgpt-zh)
 * [开源-chatgpt-替代品列表](https://github.com/nichtdax/awesome-totally-open-chatgpt)
 * [ChatGPT工具，演示，文档列表](https://github.com/humanloop/awesome-chatgpt)
+* [独立开发者AI创业产品精选](https://github.com/nowork-studio/awesome-ai-startups)
 
 ---
 
