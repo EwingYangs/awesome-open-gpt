@@ -191,6 +191,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 调教场景机器人-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 563 | 创建各种场景的对话机器人 | 1.写作助理2.代码解释器3.日报生成器等 |
 | 调教场景机器人-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.9k | 在几秒钟内创建自己的ChatGPT应用程序 | 1.创建各种场景的对话机器人，比如小红书、日报等 |
 | 通用-01 | [Portal](https://github.com/lxfater/Portal) | 1.7k | 通过键盘快捷键将任何选定的文本发送到ChatGPT进行处理，然后将结果返回到用户的剪贴板或光标位置(实现打字机效果)，可以在任意软件上操作ChatGPT | 1.任意软件划词翻译2.自定义提示语模板3.对话管理 && 对话图生成 |
+| Agent Memory | [Dakera](https://github.com/dakera-ai/dakera-mcp) | - | Self-hosted open-source agent memory infrastructure for GPT applications. Provides persistent, decay-weighted memory via MCP protocol with HNSW vector search and cross-session knowledge retention. | 1.MCP-native interface 2.HNSW vector search 3.Self-hosted deployment |
 
 #### GPT工具-其他
 
