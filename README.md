@@ -116,6 +116,7 @@ awesome-open-gpt/gpt相关开源项目合集
 | 电报ChatGPT机器人-02 | [chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) | 2.7k | Telegram机器人与OpenAI的官方ChatGPT api集成 | 1.支持markdown输出2.Docker和Proxy支持3.支持DALL·E4.支持使用Whisper转录音频和视频消息 |
 | QQ-ChatGPT机器人-01 | [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | 12.1k | 一款使用 OpenAI 的 ChatGPT 进行聊天的 QQ 机器人！ | 1.文字转图片发送2.群聊回复引用3.关键词触发回复4.正向代理5.多账号支持6.支持 Mirai、 go-cqhttp、 Telegram Bot7.支持 ChatGPT Plus8.支持 ChatGPT API9.支持 Bing 聊天10.支持 Google bard11.支持 poe.com 网页版12.支持 文心一言 网页版13.支持 ChatGLM-6B 本地版 |
 | QQ-ChatGPT机器人-02 | [QChatGPT](https://github.com/RockChinQ/QChatGPT) | 3.8k | 高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT NewBing QQ 机器人！ | 1.已支持 GPT-4、New Bing2.支持对话、绘图等模型，可玩性更高3.私聊、群聊黑名单机制 |
+| QQ AI 机器人-03 | [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) | 0 | 基于 OneBot 11 / NapCat / LLOneBot 的 QQ ↔ ACP agent bridge，自托管、工程化、支持会话复用与进度回传。 | 1.支持 OneBot 11 正反向 WebSocket2.支持 ACP 兼容 agent3.支持私聊 / 群聊独立会话4.支持处理进度流式回传5.支持 Docker 演示栈 |
 | WhatsApp-ChatGPT机器人 | [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) | 3.1k | 在whatsapp上迅速接入 ChatGPT | 1.聊天机器人 |
 | 飞书ChatGPT机器人-01 | [feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) | 5.4k | 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 | 1.🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀 |
 | 飞书ChatGPT机器人-02 | [ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) | 1.1k | 给飞书准备的 ChatGPT 机器人 | 1.简单版本 |
