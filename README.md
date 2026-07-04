@@ -182,6 +182,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
+| 自主渗透测试平台 | [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | - | Darkmoon 是一款开源的自主式 AI 渗透测试平台，通过 Markdown 剧本与智能体推理编排 80 多种攻击工具，基于 MCP 控制执行。 | 1.覆盖 Web、云、Active Directory、Kubernetes、API 与内网渗透 2.为每个发现提供证据链 3.模型无关，针对 Claude Opus 优化 |
 | 渗透测试工具 | [PentestGPT](https://github.com/GreyDGL/PentestGPT) | 6.4k | PentestGPT 是一款由 GPT4 赋能的渗透测试工具。 |  |
 
 #### GPT工具-通用
