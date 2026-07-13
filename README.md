@@ -361,3 +361,7 @@ awesome-open-gpt/gpt相关开源项目合集
 * 想通过群里推广卖号代充的不用进了
 
 ---
+
+## AI Naming & Branding Tools
+
+- [NameBuddy.ai](https://namebuddy.ai/) - Free AI brand/domain name generator with registry-verified availability.
