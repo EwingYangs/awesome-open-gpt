@@ -227,6 +227,7 @@
 | Femdom scenes-Robot-01 | [ai-anything](https://github.com/KeJunMao/ai-anything) | 422 | 💞 Anyone can create GPT tools  | 1. Writing assistant 2. Code interpreter 3. Daily newspaper generator, etc |
 | Femdom scenes-Robot-02 | [OpenGpt](https://github.com/futantan/OpenGpt) | 3.3k | Create your own ChatGPT App in seconds. | 1. Create chatbots for various scenarios, such as Xiaohongshu, daily news, etc. |
 | Common-01 | [Portal](https://github.com/lxfater/Portal) | 1.7k | Chat GPT can be operated on any software by sending any selected text to Chat GPT for processing via keyboard shortcuts, and then returning the result to the user's clipboard or cursor position (for typewriter effect). | 1. Any software word translation 2. Custom prompt template 3. Conversation management && dialog diagram generation |
+| Common-02 | [SandBase CLI](https://github.com/sandbaseai/cli) | 66 | Open-source command-line tool and MCP bridge for accessing 2,000+ AI models through one interface. | Call multiple model providers from the terminal and connect MCP clients to agent workflows. |
 
 #### GPT-Tool-Others
 
@@ -419,4 +420,3 @@ Contribution
 
 
 This awesome-open-gpt is a collection of interesting open source projects about GPT compiled by myself, and I warmly welcome your contributions and suggestions. Please feel free to submit a PR.
-
