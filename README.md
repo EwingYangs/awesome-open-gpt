@@ -146,6 +146,7 @@ awesome-open-gpt/gpt相关开源项目合集
 
 | 名称 | github地址 | 点赞数 | 简介 | 功能 |
 | --- | --- | --- | --- | --- |
+| API文档与MCP生成 | [Cortex](https://github.com/cortex-docs/cortex) | 3.2k | 从 OpenAPI、AsyncAPI、GraphQL、gRPC 和 OpenRPC 生成交互式文档与类型安全 SDK | 支持将 API 转换为 MCP 服务器，便于接入智能工具 |
 | git工具-03 | [aicommits](https://github.com/Nutlope/aicommits) | 7.4k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
 | git工具-02 | [opencommit](https://github.com/di-sukharev/opencommit) | 5.4k | 用ChatGPT提交commit | 自动生成清晰、全面和描述性的提交消息 |
 | git工具-01 | [gptcommit](https://github.com/zurawiki/gptcommit) | 2.3k | 用ChatGPT提交commit | git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息 |
