@@ -360,5 +360,5 @@ awesome-open-gpt/gpt相关开源项目合集
 * 还不知道怎么使用GPT的不用进了
 * 想通过群里推广卖号代充的不用进了
 
-- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://github.com/flik2002/openclaw-monitor)
 ---
