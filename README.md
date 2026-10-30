@@ -87,6 +87,15 @@ awesome-open-gpt/gpt相关开源项目合集
 | PHP-OpenAi客户端 | [openai-php](https://github.com/orhanerday/open-ai) | 2.3k | OpenAI的PHP SDK |  |
 | Android-ChatGPT客户端 | [chatgpt-android](https://github.com/skydoves/chatgpt-android) | 3.8k | 安卓的ChatGPT-SDK |  |
 | .Net-ChatGPT客户端 | [openai-dotnet](https://github.com/betalgo/openai) | 3.0k | OpenAI ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI和DALL-E的dotnet SDK |  |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium | [Visit](https://teslawraps.design) |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
+| [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 
 ### GPT自动化
 
